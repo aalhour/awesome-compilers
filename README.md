@@ -12,8 +12,8 @@ A curated list of awesome resources, tools, technologies and source code project
     + [Tutorials]().
       * [Community Discussions]().
       * []().
-  * [Recreational Compilers and Interpreters]().
-  * [Stable Compiler and Interpreters]().
+  * [Recreational Projects]().
+  * [Stable Projects]().
   * [Technologies]().
      + [Compiler Backends]().
      + [Compiler Frontends]().
