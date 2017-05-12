@@ -6,24 +6,25 @@ A curated list of awesome resources, tools, technologies and source code project
 
   * [Learning](#learning)
     + [Books](#books)
-    + [Papers](#papers)
+    + [Research Papers](#research-papers)
     + [Courses](#courses)
-    + [Talks and Seminars](#talks)
+    + [Talks](#talks)
     + [Articles](#articles)
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
   * [Projects](#projects)
     + [Production-Ready](#production-ready)
     + [Educational](#educational)
-  * [Construction Technologies]()
-     + [Compiler Backends]()
-     + [Compiler Frontends]()
-     + [Runtimes]()
-  * [Verticals and Community Platforms]()
+  * [Construction Technologies](#construction-technologies)
+     + [Backends](#backends)
+     + [Frontends](#frontends)
+     + [Runtimes](#runtimes)
+  * [Verticals and Communities](#verticals-and-communities)
 
 -----------------------------------------
 
-## Learning
+
+## LEARNING
 
 ### Books
 
@@ -58,32 +59,36 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
   * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
 
+
 ### Research Papers
 
-  * [A Brief History of JIT Compilation](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
-  * [A Flexible Prolog Interpreter in Python](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.1886&rep=rep1&type=pdf).
-  * [A Graph Higher-Order IR](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf).
-  * [A Prolog Interpreter in Python, Bolz](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.8625&rep=rep1&type=pdf).
+  * [A Brief History of JIT Compilation, J. Aycock](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
+  * [A Flexible Prolog Interpreter in Python, C. Bolz & M. Leuschel](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.1886&rep=rep1&type=pdf).
+  * [A Graph Higher-Order IR, R. Leißa, M. Koster & S. Hack](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf).
+  * [A Prolog Interpreter in Python, C. Bolz](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.8625&rep=rep1&type=pdf).
   * [A Simple Multi-Processor Computer Based on Subleq, O. Mazonka, A. Kolodin](https://arxiv.org/abs/1106.2593).
-  * [Carl Friedrich Bolz’s Publications](https://scholar.google.com/citations?user=S0rpYpkAAAAJ).
-  * [Compiler Construction Using Scheme](https://www.cs.indiana.edu/~dyb/pubs/fple95.pdf).
-  * [Compiling with Continuations, Continued](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf).
-  * [Compilers Lab at Saarland University](http://compilers.cs.uni-saarland.de).
-  * [Machine Code Obfuscation via Instruction Set Reduction and CFG Linearization](https://kirschju.re/static/ba_jonischkeit_2016.pdf).
-  * [Nanopass Framework for Commercial Compiler Development](https://www.cs.indiana.edu/~dyb/pubs/commercial-nanopass.pdf).
-  * [Nanopass Framework for Compiler Education](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
-  * [Packrat Parsing (PEG) Resources](http://bford.info/packrat/).
-  * [Packrat Parsing Thesis (PEG)](https://pdos.csail.mit.edu/~baford/packrat/thesis/).
-  * [Pycket: A Tracing JIT for a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf).
-  * [PyPy’s Approach to VM Construction](http://www.csc.lsu.edu/~gb/csc7700/Reading/pypy-vm-construction.pdf).
-  * [Simple and Efficient Construction of SSA Form](http://compilers.cs.uni-saarland.de/projects/ssaconstr/).
-  * [SSA-based Register Allocation](http://compilers.cs.uni-saarland.de/projects/ssara/)
-  * [The Essence of Compiling with Continuations](https://users.soe.ucsc.edu/~cormac/papers/pldi93.pdf).
-  * [Trace-based JIT Compilation for Lazy Functional Languages](http://files.catwell.info/misc/mirror/tracing-jit-haskell-schilling.pdf).
-PEG-based transformer provides front-, middle- and back-end stages - http://www.vpri.org/…
-  * [`MOV` is Turing-Complete](https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf).
+  * [Compiler Construction Using Scheme, E. Hilsdale, J. Ashley, R. Dybvig & D. Friedman](https://www.cs.indiana.edu/~dyb/pubs/fple95.pdf).
+  * [Compiling with Continuations: Continued, A. Kennedy](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf).
+  * [Machine Code Obfuscation via Instruction Set Reduction and CFG Linearization, C. Jonischkeit](https://kirschju.re/static/ba_jonischkeit_2016.pdf).
+  * [`MOV` is Turing-Complete, S. Dolan](https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf).
     + Discussions: [HN](https://news.ycombinator.com/item?id=6309631), [Reddit](https://redd.it/1nft0x).
-The Page-Faults Weird Machine - x86 MMU is T.M. - PDF
+  * [Nanopass Framework for Commercial Compiler Development, A. Keep & R. Dybvig](https://www.cs.indiana.edu/~dyb/pubs/commercial-nanopass.pdf).
+  * [Nanopass Framework for Compiler Education, D. Sarkar, O. Waddell & R. Dybvig](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
+  * [Packrat Parsing Thesis on PEG, B. Ford](https://pdos.csail.mit.edu/~baford/packrat/thesis/).
+  * [PEG-based transformer provides front-end, middle-end and back-end stages in a simple Compiler, I. Piumarta](http://www.vpri.org/pdf/tr2010003_PEG.pdf).
+  * [Pycket: A Tracing JIT for a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf).
+  * [PyPy’s Approach to VM Construction, A. Rigo & S. Pedroni](http://www.csc.lsu.edu/~gb/csc7700/Reading/pypy-vm-construction.pdf).
+  * [Simple and Efficient Construction of SSA Form](http://compilers.cs.uni-saarland.de/projects/ssaconstr/).
+  * [SSA-based Register Allocation, S. Hack & G. Goos](http://compilers.cs.uni-saarland.de/projects/ssara/).
+  * [The Essence of Compiling with Continuations, C. Flanagan, A. Sabry, B. Duba & M. Felleisen](https://users.soe.ucsc.edu/~cormac/papers/pldi93.pdf).
+  * [The Page-Faults Weird Machine: Lessons in Instruction-less Computation, J. Bangert, S. Bratus, R. Shapiro, S. Smith](https://www.usenix.org/system/files/conference/woot13/woot13-bangert.pdf).
+  * [Trace-based JIT Compilation for Lazy Functional Languages, T. Schilling](http://files.catwell.info/misc/mirror/tracing-jit-haskell-schilling.pdf).
+
+#### Researchers and Institutes
+
+  * [C. Bolz’s Research Publications](https://scholar.google.com/citations?user=S0rpYpkAAAAJ).
+  * [Compilers Lab at Saarland University](http://compilers.cs.uni-saarland.de).
+  * [Packrat Parsing (PEG) Papers and Resources](http://bford.info/packrat/).
 
 
 ### Courses
@@ -104,19 +109,58 @@ The Page-Faults Weird Machine - x86 MMU is T.M. - PDF
   * [Virtual Machines Summer School 2016 (VMSS 2016)](http://soft-dev.org/events/vmss16/) - VMSS is a Summer School program that aims to give an overview of the field, targeted at early career researchers.
     + [YouTube Videos Playlist](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW).
 
-### Talks and Seminars
+
+### Talks
 
   * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - an introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
+
 
 ### Articles
 
 _WIP_.
 
+
 ### Tutorials
 
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
 
+
 ### Community Discussions
 
 _WIP_.
+
+
+## PROJECTS
+
+### Production-Ready
+
+_WIP_.
+
+
+### Educational
+
+_WIP_.
+
+
+## CONSTRUCTION TECHNOLOGIES
+
+### Backends
+
+_WIP_.
+
+
+### Frontends
+
+_WIP_.
+
+
+### Runtimes
+
+_WIP_.
+
+
+## VERTICALS AND COMMUNITIES
+
+_WIP_.
+
