@@ -44,23 +44,47 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X) - _TODO_.
   * [Essentials of Programming Languages](https://www.amazon.com/dp/0262062798) - _TODO_.
   * [Language Implementation Patterns](https://www.amazon.com/dp/193435645X) - _TODO_.
-  * Machine Code Obfuscation via IS Reduction and CFG Linearization - PDF
   * [Modern Compiler Implementation in C](https://www.cs.princeton.edu/~appel/modern/c/) - _TODO_.
   * [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml/) - _TODO_.
   * [Modern Compiler Implementation in Java](https://www.cs.princeton.edu/~appel/modern/java/) - _TODO_.
   * [Optimizing Compilers for Modern Architectures](https://www.amazon.com/dp/1558602860/) - _TODO_.
-  * [Programming Language Pragmatics](https://www.amazon.com/dp/0123745144) - _TODO_.
-  * Programming Languages: Application and Interpretation - www , PDF
-  * Programming Languages: Theory and Practice - PDF , lecture notes
-  * [Programming Languages: Theory and Application](http://cs.brown.edu/courses/cs173/2012/book/) - _TODO_.
-  * Project Oberon - 1992 edition , 2013 edition
-  * [The SSA Book](http://ssabook.gforge.inria.fr/latest/book.pdf) - _TODO_.
-  * Types and Programming Languages - www , Amazon
+  * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144) - _TODO_.
+  * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/) - _TODO_.
+    + [PDF Document](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
+  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) - _TODO_.
+  * Project Oberon, N. Wirth and J. Gutknecht - [1992 Edition](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf), [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/) - _TODO_.
+  * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf) - _TODO_.
+  * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091) - _TODO_.
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105) - _TODO_.
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691) - _TODO_.
-  * Warren's Abstract Machine - Prolog in Haskell - http://www.cvc.uab.es/shared/…
+  * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine) - _TODO_.
 
 ### Papers
+
+  * [Machine Code Obfuscation via Instruction Set Reduction and CFG Linearization](https://kirschju.re/static/ba_jonischkeit_2016.pdf) - _TODO_.
+
+Packrat Parsing (PEG) Resources - http://bford.info/packrat/
+Packrat Parsing Thesis (PEG) - https://pdos.csail.mit.edu/~baford/packrat/thesis/
+Carl Friedrich Bolz’s Publications - www , Google Scholar
+Compilers Lab at Saarland University - http://compilers.cs.uni-saarland.de
+A Graph Higher-Order IR - http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf
+Compiling with Continuations, Continued - www , PDF
+The Essence of Compiling with Continuations - https://users.soe.ucsc.edu/~cormac...
+Simple and Efficient Construction of SSA Form - http://compilers.cs.uni-saarland.de/…
+SSA-based Register Allocation - http://compilers.cs.uni-saarland.de/projects/ssara/
+A Brief History of JIT Compilation - http://eecs.ucf.edu/~dcm/Teaching/...
+Trace-based JIT Compilation for Lazy Functional Languages - http://files.catwell.info/misc…
+Pycket: A Tracing JIT for a Functional Language
+PyPy’s Approach to VM Construction - http://www.csc.lsu.edu/~gb/csc7700/Reading/…
+Meta-Tracing, RPython and PyPy - https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf
+Nanopass Compiler Framework - http://lambda-the-ultimate.org/node/1589
+A flexible Prolog Interpreter in Python - http://citeseerx.ist.psu.edu/viewdoc/download…
+A Prolog Interpreter in Python, Bolz - http://citeseerx.ist.psu.edu/viewdoc/download…
+Metacompiler, Part 1 - http://www.bayfronttechnologies.com/mc_tutorial.html
+PEG-based transformer provides front-, middle- and back-end stages - http://www.vpri.org/…
+MOV is Turing-Complete - PDF , reddit , HN 
+The Page-Faults Weird Machine - x86 MMU is T.M. - PDF
+
 
 ### Courses
 
