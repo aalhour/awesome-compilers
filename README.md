@@ -120,7 +120,7 @@ A curated list of awesome resources, tools, technologies and source code project
 
 ### Articles
 
-_WIP_.
+  * [Accidentally Turing Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html).
 
 
 ### Tutorials
@@ -164,10 +164,16 @@ _WIP_.
 
 ## Verticals
 
-_WIP_.
+  * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
+  * [PLT Enlightenment](http://steshaw.org/plt/).
+  * [SSA Form Bibliography](http://www.dcs.gla.ac.uk/~jsinger/ssa.html).
+  * [Summer Schools](https://gist.github.com/biboudis/377b4a4de4d1718df2d0).
+  * [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc).
+  * [TypeFunc](https://github.com/williamdemeo/TypeFunc).
 
 
 ## Communities
 
-_WIP_.
+  * [/r/Compilers](https://www.reddit.com/r/Compilers) - a subreddit community about the theory and development of compilers.
+  * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - a subreddit communit that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
 
