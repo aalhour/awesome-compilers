@@ -28,13 +28,16 @@ A curated list of awesome resources, tools, technologies and source code project
 ### Books
 
   * [Advanced Compiler Design and Implementation](https://www.amazon.com/dp/1558603204) - _TODO_.
-  * Advanced Topics in Types and Programming Languages
+  * [Advanced Topics in Types and Programming Languages](https://www.amazon.com/dp/0262162288) - _TODO_.
   * [A Simple Multi-Processor Computer Based on Subleq](https://arxiv.org/abs/1106.2593) - _TODO_.
   * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/) - a introductory book on the Basics of Compiler Construction.
   * [Beautiful Racket - How to Make Your Own PL with Racket](http://beautifulracket.com) - _TODO_.
   * [Building an Optimizing Compiler](https://www.amazon.com/dp/155558179X) - _TODO_.
-  * Crafting Interpreters - A Handbook for Making PLs - www , GitHub , HN
-  * Create Your Own Programming Language - www , HN
+  * [Crafting Interpreters: A Handbook for Making PLs](http://www.craftinginterpreters.com/) - _TODO_.
+    + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
+    + [HackerNews Discussion](https://news.ycombinator.com/item?id=13406081).
+  * [Create Your Own Programming Language](http://createyourproglang.com/) - _TODO_.
+    + [HackerNews Discussion](https://news.ycombinator.com/item?id=813133).
   * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers and Interpreters.
   * [Compiling with Continuations](https://www.amazon.com/dp/052103311X) - _TODO_.
   * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about computer construction from Nand Gates, through Assemblers, Compilers up to Operating Systems and Tetris game development.
