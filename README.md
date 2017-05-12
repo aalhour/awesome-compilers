@@ -103,7 +103,7 @@ A curated list of awesome resources, tools, technologies and source code project
   * [DSL Design and Implementation Summer School](http://vjovanov.github.io/dsldi-summer-school/) - a Summer School program on the topics of DSL Design and Implementation hosted by the EPFL University.
   * [Foundations of Programming Languages](http://www.cs.cmu.edu/~fp/courses/15312-f04/) - a course that covers many of the concepts underlying the design, definition, implementation and use of modern programming languages from a formal standpoint.
   * [Nand2Tetris: How to Build a Computer from First Principles, Part 2](https://www.coursera.org/learn/nand2tetris2) - This 2nd part of the Nand2Tetris course covers basic language design and elementary compiler construction concepts in addition to many other topics on a basic level.
-  * [NPTEL's Principles of Compiler Design Course](https://www.youtube.com/playlist?list=PLbMVogVj5nJQNjkHZgwuAlfQ9tzmQDxjA).
+  * [NPTEL's Principles of Compiler Design Course](https://www.youtube.com/playlist?list=PLbMVogVj5nJQNjkHZgwuAlfQ9tzmQDxjA) - an introductory course from NPTEL on Compiler Design.
   * [NPTEL's Compiler Design Course](http://nptel.ac.in/courses/106108052/32) - a slightly more advanced course than their Principles of Compiler Design course, covers SSA Form to a good degree.
     + [YouTube Video Playlist](https://www.youtube.com/playlist?list=PLbMVogVj5nJTmKzaSlCpGgi7qxgcRRs8h).
   * [Programming Languages: Part A, by Grossman](https://www.coursera.org/learn/programming-languages) - Part 1 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming.
@@ -131,7 +131,7 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Python, Linkers and Virtual Memory - PYCON US](https://www.youtube.com/watch?v=twQKAoq2OPE).
   * [Reverse Engineering the MOS 6502 CPU](https://youtube.com/watch?v=fWqBmmPQP40).
   * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - an introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
-  * The Static Single Assignment Form - [Part 1](https://www.youtube.com/watch?v=Q7hlcuCGbxE), [Part 2](https://www.youtube.com/watch?v=FV9fq_HfPsM), [Part 3](https://www.youtube.com/watch?v=GyYiic8trCE) - Video Lectures from NPTEL's Compilers course on SSA Form.
+  * The SSA (Static Single Assignment) Form - [Part 1](https://www.youtube.com/watch?v=Q7hlcuCGbxE), [Part 2](https://www.youtube.com/watch?v=FV9fq_HfPsM), [Part 3](https://www.youtube.com/watch?v=GyYiic8trCE) - Video Lectures from NPTEL's Compilers Course on SSA Form (see: [Courses](#courses) for more information).
   * [Type-Driven Development with Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ).
   * [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU).
 
