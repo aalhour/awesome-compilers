@@ -8,7 +8,7 @@ A curated list of awesome resources, tools, technologies and source code project
     + [Books](#books)
     + [Papers](#papers)
     + [Courses](#courses)
-    + [Talks](#talks)
+    + [Talks and Seminars](#talks)
     + [Articles](#articles)
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
@@ -27,62 +27,62 @@ A curated list of awesome resources, tools, technologies and source code project
 
 ### Books
 
-  * [Advanced Compiler Design and Implementation](https://www.amazon.com/dp/1558603204) - _TODO_.
-  * [Advanced Topics in Types and Programming Languages](https://www.amazon.com/dp/0262162288) - _TODO_.
-  * [A Simple Multi-Processor Computer Based on Subleq](https://arxiv.org/abs/1106.2593) - _TODO_.
-  * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/) - a introductory book on the Basics of Compiler Construction.
-  * [Beautiful Racket - How to Make Your Own PL with Racket](http://beautifulracket.com) - _TODO_.
-  * [Building an Optimizing Compiler](https://www.amazon.com/dp/155558179X) - _TODO_.
-  * [Crafting Interpreters: A Handbook for Making PLs](http://www.craftinginterpreters.com/) - _TODO_.
+  * [Advanced Compiler Design and Implementation, S. Muchnick](https://www.amazon.com/dp/1558603204).
+  * [Advanced Topics in Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162288).
+  * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/).
+  * [Beautiful Racket - How to Make Your Own PL with Racket, M. But­t­er­ick](http://beautifulracket.com).
+  * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
+  * [Crafting Interpreters: A Handbook for Making Programming Languages, B. Nystrom](http://www.craftinginterpreters.com/).
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
     + [HackerNews Discussion](https://news.ycombinator.com/item?id=13406081).
-  * [Create Your Own Programming Language](http://createyourproglang.com/) - _TODO_.
+  * [Create Your Own Programming Language](http://createyourproglang.com/).
     + [HackerNews Discussion](https://news.ycombinator.com/item?id=813133).
   * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers and Interpreters.
-  * [Compiling with Continuations](https://www.amazon.com/dp/052103311X) - _TODO_.
+  * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
   * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about computer construction from Nand Gates, through Assemblers, Compilers up to Operating Systems and Tetris game development.
-  * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X) - _TODO_.
-  * [Essentials of Programming Languages](https://www.amazon.com/dp/0262062798) - _TODO_.
-  * [Language Implementation Patterns](https://www.amazon.com/dp/193435645X) - _TODO_.
-  * [Modern Compiler Implementation in C](https://www.cs.princeton.edu/~appel/modern/c/) - _TODO_.
-  * [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml/) - _TODO_.
-  * [Modern Compiler Implementation in Java](https://www.cs.princeton.edu/~appel/modern/java/) - _TODO_.
-  * [Optimizing Compilers for Modern Architectures](https://www.amazon.com/dp/1558602860/) - _TODO_.
-  * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144) - _TODO_.
-  * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/) - _TODO_.
+  * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X).
+  * [Essentials of Programming Languages, D. Friedman & M. Wand](https://www.amazon.com/dp/0262062798).
+  * [Language Implementation Patterns, T. Parr](https://www.amazon.com/dp/193435645X).
+  * [Modern Compiler Implementation in C, A. Appel](https://www.cs.princeton.edu/~appel/modern/c/).
+  * [Modern Compiler Implementation in ML, A. Appel](https://www.cs.princeton.edu/~appel/modern/ml/).
+  * [Modern Compiler Implementation in Java, A. Appel](https://www.cs.princeton.edu/~appel/modern/java/).
+  * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
+  * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144).
+  * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/).
     + [PDF Document](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
-  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) - _TODO_.
-  * Project Oberon, N. Wirth and J. Gutknecht - [1992 Edition](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf), [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/) - _TODO_.
-  * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf) - _TODO_.
-  * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091) - _TODO_.
-  * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105) - _TODO_.
-  * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691) - _TODO_.
-  * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine) - _TODO_.
+  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
+  * Project Oberon, N. Wirth & J. Gutknecht - [1992 Edition](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf), [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
+  * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf).
+  * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091).
+  * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
+  * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
+  * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
 
-### Papers
+### Research Papers
 
-  * [Machine Code Obfuscation via Instruction Set Reduction and CFG Linearization](https://kirschju.re/static/ba_jonischkeit_2016.pdf) - _TODO_.
-
-Packrat Parsing (PEG) Resources - http://bford.info/packrat/
-Packrat Parsing Thesis (PEG) - https://pdos.csail.mit.edu/~baford/packrat/thesis/
-Carl Friedrich Bolz’s Publications - www , Google Scholar
-Compilers Lab at Saarland University - http://compilers.cs.uni-saarland.de
-A Graph Higher-Order IR - http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf
-Compiling with Continuations, Continued - www , PDF
-The Essence of Compiling with Continuations - https://users.soe.ucsc.edu/~cormac...
-Simple and Efficient Construction of SSA Form - http://compilers.cs.uni-saarland.de/…
-SSA-based Register Allocation - http://compilers.cs.uni-saarland.de/projects/ssara/
-A Brief History of JIT Compilation - http://eecs.ucf.edu/~dcm/Teaching/...
-Trace-based JIT Compilation for Lazy Functional Languages - http://files.catwell.info/misc…
-Pycket: A Tracing JIT for a Functional Language
-PyPy’s Approach to VM Construction - http://www.csc.lsu.edu/~gb/csc7700/Reading/…
-Meta-Tracing, RPython and PyPy - https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf
-Nanopass Compiler Framework - http://lambda-the-ultimate.org/node/1589
-A flexible Prolog Interpreter in Python - http://citeseerx.ist.psu.edu/viewdoc/download…
-A Prolog Interpreter in Python, Bolz - http://citeseerx.ist.psu.edu/viewdoc/download…
-Metacompiler, Part 1 - http://www.bayfronttechnologies.com/mc_tutorial.html
+  * [A Brief History of JIT Compilation](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
+  * [A Flexible Prolog Interpreter in Python](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.1886&rep=rep1&type=pdf).
+  * [A Graph Higher-Order IR](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf).
+  * [A Prolog Interpreter in Python, Bolz](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.8625&rep=rep1&type=pdf).
+  * [A Simple Multi-Processor Computer Based on Subleq, O. Mazonka, A. Kolodin](https://arxiv.org/abs/1106.2593).
+  * [Carl Friedrich Bolz’s Publications](https://scholar.google.com/citations?user=S0rpYpkAAAAJ).
+  * [Compiler Construction Using Scheme](https://www.cs.indiana.edu/~dyb/pubs/fple95.pdf).
+  * [Compiling with Continuations, Continued](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf).
+  * [Compilers Lab at Saarland University](http://compilers.cs.uni-saarland.de).
+  * [Machine Code Obfuscation via Instruction Set Reduction and CFG Linearization](https://kirschju.re/static/ba_jonischkeit_2016.pdf).
+  * [Nanopass Framework for Commercial Compiler Development](https://www.cs.indiana.edu/~dyb/pubs/commercial-nanopass.pdf).
+  * [Nanopass Framework for Compiler Education](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
+  * [Packrat Parsing (PEG) Resources](http://bford.info/packrat/).
+  * [Packrat Parsing Thesis (PEG)](https://pdos.csail.mit.edu/~baford/packrat/thesis/).
+  * [Pycket: A Tracing JIT for a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf).
+  * [PyPy’s Approach to VM Construction](http://www.csc.lsu.edu/~gb/csc7700/Reading/pypy-vm-construction.pdf).
+  * [Simple and Efficient Construction of SSA Form](http://compilers.cs.uni-saarland.de/projects/ssaconstr/).
+  * [SSA-based Register Allocation](http://compilers.cs.uni-saarland.de/projects/ssara/)
+  * [The Essence of Compiling with Continuations](https://users.soe.ucsc.edu/~cormac/papers/pldi93.pdf).
+  * [Trace-based JIT Compilation for Lazy Functional Languages](http://files.catwell.info/misc/mirror/tracing-jit-haskell-schilling.pdf).
 PEG-based transformer provides front-, middle- and back-end stages - http://www.vpri.org/…
-MOV is Turing-Complete - PDF , reddit , HN 
+  * [`MOV` is Turing-Complete](https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf).
+    + Discussions: [HN](https://news.ycombinator.com/item?id=6309631), [Reddit](https://redd.it/1nft0x).
 The Page-Faults Weird Machine - x86 MMU is T.M. - PDF
 
 
@@ -106,4 +106,17 @@ The Page-Faults Weird Machine - x86 MMU is T.M. - PDF
 
 ### Talks and Seminars
 
-* [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - an introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
+  * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - an introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
+  * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
+
+### Articles
+
+_WIP_.
+
+### Tutorials
+
+  * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
+
+### Community Discussions
+
+_WIP_.
