@@ -20,15 +20,15 @@ A curated list of awesome resources, tools, technologies and source code project
      + [Runtimes]().
   * [Verticals and Community Platforms]()
 
-===========================================
+-----------------------------------------
 
-# Learning
+## Learning
 
-## Books
+### Books
 
-## Papers
+### Papers
 
-## Courses
+### Courses
 
   * Compilers Theory, Stanford - [YouTube](https://www.youtube.com/playlist?list=PLLH73N9cB21VSVEX1aSRlNTufaLK1dTAI), [Stanford.edu](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/), [Class Notes](http://web.stanford.edu/class/cs143/) - an introduction to Compilers theory and construction course from Stanford.
   * [Compilers Construction, Cambridge](http://www.cl.cam.ac.uk/teaching/1516/CompConstr/materials.html) - an introduction to compiler construction course from the University of Cambridge.
