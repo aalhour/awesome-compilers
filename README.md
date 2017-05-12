@@ -33,24 +33,24 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/) - a introductory book on the Basics of Compiler Construction.
   * [Beautiful Racket - How to Make Your Own PL with Racket](http://beautifulracket.com) - _TODO_.
   * [Building an Optimizing Compiler](https://www.amazon.com/dp/155558179X) - _TODO_.
-  * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers and Interpreters.
-  * [Compiling with Continuations](https://www.amazon.com/dp/052103311X) - _TODO_.
   * Crafting Interpreters - A Handbook for Making PLs - www , GitHub , HN
   * Create Your Own Programming Language - www , HN
+  * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers and Interpreters.
+  * [Compiling with Continuations](https://www.amazon.com/dp/052103311X) - _TODO_.
   * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about computer construction from Nand Gates, through Assemblers, Compilers up to Operating Systems and Tetris game development.
   * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X) - _TODO_.
   * [Essentials of Programming Languages](https://www.amazon.com/dp/0262062798) - _TODO_.
+  * [Language Implementation Patterns](https://www.amazon.com/dp/193435645X) - _TODO_.
+  * Machine Code Obfuscation via IS Reduction and CFG Linearization - PDF
   * [Modern Compiler Implementation in C](https://www.cs.princeton.edu/~appel/modern/c/) - _TODO_.
   * [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml/) - _TODO_.
   * [Modern Compiler Implementation in Java](https://www.cs.princeton.edu/~appel/modern/java/) - _TODO_.
-  * [Language Implementation Patterns](https://www.amazon.com/dp/193435645X) - _TODO_.
-  * Machine Code Obfuscation via IS Reduction and CFG Linearization - PDF
   * [Optimizing Compilers for Modern Architectures](https://www.amazon.com/dp/1558602860/) - _TODO_.
   * [Programming Language Pragmatics](https://www.amazon.com/dp/0123745144) - _TODO_.
-  * Project Oberon - 1992 edition , 2013 edition
   * Programming Languages: Application and Interpretation - www , PDF
   * Programming Languages: Theory and Practice - PDF , lecture notes
   * [Programming Languages: Theory and Application](http://cs.brown.edu/courses/cs173/2012/book/) - _TODO_.
+  * Project Oberon - 1992 edition , 2013 edition
   * [The SSA Book](http://ssabook.gforge.inria.fr/latest/book.pdf) - _TODO_.
   * Types and Programming Languages - www , Amazon
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105) - _TODO_.
