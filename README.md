@@ -6,7 +6,8 @@ A curated list of awesome resources, tools, technologies and source code project
 
   * [Learning](#learning)
     + [Books](#books)
-    + [Research Papers](#research-papers)
+    + [Papers](#papers)
+      * [Researchers and Institutes](#researchers-and-institutes)
     + [Courses](#courses)
     + [Talks](#talks)
     + [Articles](#articles)
@@ -19,12 +20,13 @@ A curated list of awesome resources, tools, technologies and source code project
      + [Backends](#backends)
      + [Frontends](#frontends)
      + [Runtimes](#runtimes)
-  * [Verticals and Communities](#verticals-and-communities)
+  * [Verticals](#verticals)
+  * [Communities](#communities)
 
 -----------------------------------------
 
 
-## LEARNING
+## Learning
 
 ### Books
 
@@ -60,7 +62,7 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
 
 
-### Research Papers
+### Papers
 
   * [A Brief History of JIT Compilation, J. Aycock](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
   * [A Flexible Prolog Interpreter in Python, C. Bolz & M. Leuschel](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.1886&rep=rep1&type=pdf).
@@ -131,7 +133,7 @@ _WIP_.
 _WIP_.
 
 
-## PROJECTS
+## Projects
 
 ### Production-Ready
 
@@ -143,7 +145,7 @@ _WIP_.
 _WIP_.
 
 
-## CONSTRUCTION TECHNOLOGIES
+## Construction Technologies
 
 ### Backends
 
@@ -160,7 +162,12 @@ _WIP_.
 _WIP_.
 
 
-## VERTICALS AND COMMUNITIES
+## Verticals
+
+_WIP_.
+
+
+## Communities
 
 _WIP_.
 
