@@ -16,9 +16,9 @@ A curated list of awesome resources, tools, technologies and source code project
     + [Production-Ready](#production-ready)
     + [Educational](#educational)
   * [Construction Technologies]()
-     + [Compiler Backends]().
-     + [Compiler Frontends]().
-     + [Runtimes]().
+     + [Compiler Backends]()
+     + [Compiler Frontends]()
+     + [Runtimes]()
   * [Verticals and Community Platforms]()
 
 -----------------------------------------
