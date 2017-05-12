@@ -4,16 +4,17 @@ A curated list of awesome resources, tools, technologies and source code project
 
 ## Table of Contents
 
-  * [Learning](#Learning)
-    + [Books]()
-    + [Papers]()
-    + [Courses](#Courses)
-    + [Talks]()
-    + [Tutorials]()
-      * [Community Discussions]()
-      * []()
-  * [Stable Projects]()
-  * [Educational Projects]()
+  * [Learning](#learning)
+    + [Books](#books)
+    + [Papers](#papers)
+    + [Courses](#courses)
+    + [Talks](#talks)
+    + [Articles](#articles)
+    + [Tutorials](#tutorials)
+    + [Community Discussions](#community-discussions)
+  * [Projects](#projects)
+    + [Production-Ready](#production-ready)
+    + [Educational](#educational)
   * [Construction Technologies]()
      + [Compiler Backends]().
      + [Compiler Frontends]().
