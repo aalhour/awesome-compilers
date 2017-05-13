@@ -297,6 +297,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
   * [PLT Enlightenment](http://steshaw.org/plt/).
+  * [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/).
   * [SSA Form Bibliography](http://www.dcs.gla.ac.uk/~jsinger/ssa.html).
   * [Summer Schools](https://gist.github.com/biboudis/377b4a4de4d1718df2d0).
   * [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc).
