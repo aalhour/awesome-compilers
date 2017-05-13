@@ -23,6 +23,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
      + [CLR](#clr)
      + [D](#d)
      + [Graal](#graal)
+     + [Haskell](#haskell)
      + [JavaScript](#javascript)
      + [JVM](#jvm)
      + [Kotlin](#kotlin)
@@ -164,10 +165,13 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Tutorials
 
+  * [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/).
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
+  * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/).
+  * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
 
 ### Community Discussions
 
@@ -257,6 +261,14 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Graal](https://github.com/graalvm/graal) - High-Performance Polyglot Runtime.
   * [Graal Core](https://github.com/graalvm/graal-core) - Compiler and Truffel Partial Evaluator.
   * [Graal VM](https://github.com/graalvm/graalvm) - Graal's multi-language VM distribution.
+
+### Haskell
+
+  * [Bound](https://github.com/ekmett/bound/) / [unbound](https://github.com/sweirich/replib) / [unbound-generics](https://github.com/lambdageek/unbound-generics) - Libraries for manipulating bound variables.
+  * [Hoopl](https://github.com/haskell/hoopl) - A higher-order optimization library.
+  * [llvm-general](https://github.com/bscarlet/llvm-general/) - Haskell bindings for LLVM.
+  * [Parsec](https://github.com/aslatter/parsec) / [attoparsec](https://github.com/bos/attoparsec) / [Megaparsec](https://github.com/mrkkrp/megaparsec) / [Trifecta](https://github.com/ekmett/trifecta/) / [Alex](https://github.com/simonmar/alex) + [Happy](https://github.com/simonmar/happy) - Parsers for every use case.
+  * [wl-pprint-text](https://github.com/ivan-m/wl-pprint-text) / [ansi-wl-pprint](https://github.com/batterseapower/ansi-wl-pprint) - Walder-style pretty-printing libraries.
 
 ### JavaScript
 
