@@ -124,7 +124,7 @@ A curated list of awesome resources, tools, technologies and source code project
     + [YouTube Channel](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w/videos).
   * [Exploring Python’s Bytecode](https://ep2016.europython.eu/media/conference/slides/exploring-python-bytecode.pdf).
   * [Java AOT (Ahead of Time) Compilation](https://2016.javazone.no/program/java-aot-compilation).
-  * [Lang.NEXT Conference 2014](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012).
+  * [Lang.NEXT Conference 2012](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012).
   * [Lang.NEXT Conference 2014](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014).
   * [MetaScala: A Tiny DIY JVM](https://skillsmatter.com/skillscasts/4916-metascala-a-tiny-diy-jvm) - Metascala is a tiny metacircular Java Virtual Machine (JVM) written in the Scala programming language.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
