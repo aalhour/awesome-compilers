@@ -16,7 +16,7 @@ A curated list of awesome resources, tools, technologies and source code project
     + [Community Discussions](#community-discussions)
   * [Projects](#projects)
     + [Production-Ready](#production-ready)
-    + [Educational](#educational)
+    + [Educational and Toys](#educational-and-toys)
   * [Tools and Frameworks](#tools-and-frameworks)
      + [Language Agnostic](#language-agnostic)
      + [C (as a Backend)](#c-as-a-backend)
@@ -183,12 +183,22 @@ A curated list of awesome resources, tools, technologies and source code project
 
 ## Projects
 
+_This section aims at listing code projects of Compilers, Interpreters, Translators, Runtimes, Virtual Machines and the like._
+
 ### Production-Ready
 
-_WIP_.
+  * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme).
+  * [Lua Programming Language](https://github.com/LuaDist/lua).
+    + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/).
+  * [Nim Language Compiler](https://github.com/nim-lang/Nim).
+  * [Red Programming Language](https://github.com/red/red).
 
-### Educational
+### Educational and Toys
 
+  * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
+    + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
+  * [Hython](https://github.com/mattgreen/hython) - A Haskell-powered Python 3 interpreter.
+    + Discussions: [Reddit](https://redd.it/46f8j4).
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - A compiler for the COOL Programming Language written in Python 3.
 
 
