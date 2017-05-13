@@ -297,10 +297,11 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Combine](https://github.com/Marwes/combine) - Parser Combinator Library for Rust.
   * [IronLLVM](https://github.com/jauhien/iron-llvm) - Safe LLVM bindings for Rust.
+  * [LALRPOP](https://github.com/nikomatsakis/lalrpop) -  LR(1) parser generator for Rust
   * [Nom](https://github.com/Geal/nom) - Parser Combinator Framework.
+  * [PEG](https://github.com/kevinmehall/rust-peg) - A PEG Parser Generator.
   * [Pest](https://github.com/pest-parser/pest) - A PEG Parser Generator.
   * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
-
 
 ## Runtimes and VMs
 
