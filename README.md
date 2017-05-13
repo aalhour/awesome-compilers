@@ -212,7 +212,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - a Stack-machine simulator.
   * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - a tiny educational compiler project in JavaScript.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
-  * [tiny.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - A Tiny-C language compiler in C.
+  * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - A Tiny-C language compiler in C.
 
 
 ## Tools and Frameworks
