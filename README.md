@@ -235,9 +235,9 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator.
   * [FancyPars-lite](https://github.com/UplinkCoder/FancyPars-lite) - A fast parser generator.
-  * [Pegged](https://github.com/PhilippeSigaud/Pegged) - design, test and generate parsers for PEG grammars.
   * [libdparse](https://github.com/dlang-community/libdparse) - A library allowing to build lexers and parsers. Contains a lexer and a parser for the D language itself.
   * [llvm-d](https://github.com/Calrama/llvm-d) - D bindings for LLVM.
+  * [Pegged](https://github.com/PhilippeSigaud/Pegged) - design, test and generate parsers for PEG grammars.
 
 ### Graal
 
