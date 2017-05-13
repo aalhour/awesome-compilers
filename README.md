@@ -189,7 +189,7 @@ _WIP_.
 
 ### Educational
 
-_WIP_.
+  * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - A compiler for the COOL Programming Language written in Python 3.
 
 
 ## Tools and Platforms
@@ -215,9 +215,10 @@ _WIP_.
 
 ### CLR
 
-  * [Cecile](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/).
-  * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/).
-  * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/).
+  * [Cecile](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) - A library to generate and inspect programs and libraries in the ECMA CIL format.
+  * [ILSpy](http://ilspy.net) - A .NET Decompiler.
+  * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - A .NET Decompiler.
+  * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - An an assembly editor which can be used as a plugin with other .NET/CLR tools.
 
 ### Graal
 
@@ -242,7 +243,7 @@ _WIP_.
 
 ### Kotlin
 
-  * [The Autumn Parsing Library](https://github.com/norswap/autumn).
+  * [The Whimsy Compiler Framework](https://github.com/norswap/whimsy) - A compiler framework research project in Kotlin.
 
 ### Python
 
