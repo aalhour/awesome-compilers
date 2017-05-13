@@ -109,22 +109,22 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Courses
 
-  * [Compilers Construction, Cambridge](http://www.cl.cam.ac.uk/teaching/1516/CompConstr/materials.html) - an introduction to compiler construction course from the University of Cambridge.
-  * [Compiler Construction for Undergrads, RICE University](https://www.clear.rice.edu/comp412/Lectures/) - an introduction to compiler construction and language translators course from the RICE University.
-  * Compilers Theory, Stanford - [YouTube](https://www.youtube.com/playlist?list=PLLH73N9cB21VSVEX1aSRlNTufaLK1dTAI), [Stanford.edu](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/), [Class Notes](http://web.stanford.edu/class/cs143/) - an introduction to Compilers theory and construction course from Stanford.
+  * [Compilers Construction, Cambridge](http://www.cl.cam.ac.uk/teaching/1516/CompConstr/materials.html) - An introduction to compiler construction course from the University of Cambridge.
+  * [Compiler Construction for Undergrads, RICE University](https://www.clear.rice.edu/comp412/Lectures/) - An introduction to compiler construction and language translators course from the RICE University.
+  * Compilers Theory, Stanford - [YouTube](https://www.youtube.com/playlist?list=PLLH73N9cB21VSVEX1aSRlNTufaLK1dTAI), [Stanford.edu](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/), [Class Notes](http://web.stanford.edu/class/cs143/) - An introduction to Compilers theory and construction course from Stanford.
   * [Design and Construction of Compilers, University of Texas](https://lambda.uta.edu/cse5317/) - Design and construction of compilers including lexical analysis, parsing, code generation techniques, error analysis and simple code optimizations.
     + Lecture Notes: [PDF](https://lambda.uta.edu/cse5317/notes.pdf), [HTML](https://lambda.uta.edu/cse5317/long/long.html).
-  * [DSL Design and Implementation Summer School](http://vjovanov.github.io/dsldi-summer-school/) - a Summer School program on the topics of DSL Design and Implementation hosted by the EPFL University.
-  * [Foundations of Programming Languages](http://www.cs.cmu.edu/~fp/courses/15312-f04/) - a course that covers many of the concepts underlying the design, definition, implementation and use of modern programming languages from a formal standpoint.
+  * [DSL Design and Implementation Summer School](http://vjovanov.github.io/dsldi-summer-school/) - A Summer School program on the topics of DSL Design and Implementation hosted by the EPFL University.
+  * [Foundations of Programming Languages](http://www.cs.cmu.edu/~fp/courses/15312-f04/) - A course that covers many of the concepts underlying the design, definition, implementation and use of modern programming languages from a formal standpoint.
   * [Nand2Tetris: How to Build a Computer from First Principles, Part 2](https://www.coursera.org/learn/nand2tetris2) - This 2nd part of the Nand2Tetris course covers basic language design and elementary compiler construction concepts in addition to many other topics on a basic level.
-  * [NPTEL's Principles of Compiler Design Course](https://www.youtube.com/playlist?list=PLbMVogVj5nJQNjkHZgwuAlfQ9tzmQDxjA) - an introductory course from NPTEL on Compiler Design.
-  * [NPTEL's Compiler Design Course](http://nptel.ac.in/courses/106108052/32) - a slightly more advanced course than their Principles of Compiler Design course, covers SSA Form to a good degree.
+  * [NPTEL's Principles of Compiler Design Course](https://www.youtube.com/playlist?list=PLbMVogVj5nJQNjkHZgwuAlfQ9tzmQDxjA) - An introductory course from NPTEL on Compiler Design.
+  * [NPTEL's Compiler Design Course](http://nptel.ac.in/courses/106108052/32) - A slightly more advanced course than their Principles of Compiler Design course, covers SSA Form to a good degree.
     + [YouTube Video Playlist](https://www.youtube.com/playlist?list=PLbMVogVj5nJTmKzaSlCpGgi7qxgcRRs8h).
   * [Programming Languages: Part A, by Grossman](https://www.coursera.org/learn/programming-languages) - Part 1 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming.
-  * [Programming Languages: Part B, by Grossman](https://www.coursera.org/learn/programming-languages-part-b) - Part 2 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming..
-  * [Programming Languages: Part C, by Grossman](https://www.coursera.org/learn/programming-languages-part-c) - Part 3 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming..
-  * [Types, Logic, Semantics, and Verification from Oregon University's Summer School](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html) - a Summer School program that consists of 80 minute lectures presented by internationally recognized leaders in programming languages and formal reasoning research.
-  * [Virtual Machines and Managed Runtimes, UCB CS294](http://www.wolczko.com/CS294/) - an introductory course on Virtual Machines and Managed Runtimes from the University of Berkeley.
+  * [Programming Languages: Part B, by Grossman](https://www.coursera.org/learn/programming-languages-part-b) - Part 2 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming.
+  * [Programming Languages: Part C, by Grossman](https://www.coursera.org/learn/programming-languages-part-c) - Part 3 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming.
+  * [Types, Logic, Semantics, and Verification from Oregon University's Summer School](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html) - A Summer School program that consists of 80 minute lectures presented by internationally recognized leaders in programming languages and formal reasoning research.
+  * [Virtual Machines and Managed Runtimes, UCB CS294](http://www.wolczko.com/CS294/) - An introductory course on Virtual Machines and Managed Runtimes from the University of Berkeley.
   * [Virtual Machines Summer School 2016 (VMSS 2016)](http://soft-dev.org/events/vmss16/) - VMSS is a Summer School program that aims to give an overview of the field, targeted at early career researchers.
     + [YouTube Videos Playlist](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW).
 
@@ -143,7 +143,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
   * [Python, Linkers and Virtual Memory - PYCON US](https://www.youtube.com/watch?v=twQKAoq2OPE).
   * [Reverse Engineering the MOS 6502 CPU](https://youtube.com/watch?v=fWqBmmPQP40).
-  * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - an introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
+  * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - An introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
   * [The JVM (Java Virtual Machine) Architecture](https://www.youtube.com/watch?v=ZBJ0u9MaKtM).
   * [The MoVfuscator: turning mov into a soul crushing RE nightmare](https://www.youtube.com/watch?v=R7EEoWg6Ekk).
     + Discussions: [HN](https://news.ycombinator.com/item?id=9751312), [Reddit](https://redd.it/4zl8mh).
@@ -210,8 +210,8 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Poprc](https://github.com/HackerFoo/poprc) - A compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - A compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - A RISC-based VM implementation in C.
-  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - a Stack-machine simulator.
-  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - a tiny educational compiler project in JavaScript.
+  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - A Stack-machine simulator.
+  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - A tiny educational compiler project in JavaScript.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
   * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - A Tiny-C language compiler in C.
 
@@ -232,7 +232,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection.
   * [libFirm](http://pp.ipd.kit.edu/firm/) - A C library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
-  * [libJIT](https://www.gnu.org/software/libjit/) - a library that provides generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
+  * [libJIT](https://www.gnu.org/software/libjit/) - A library that provides generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
   * [myJIT](http://myjit.sourceforge.net/) - A library for machine-code generation and execution at run-time.
   * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler.
   * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler.
@@ -263,7 +263,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [IRHudra](http://mrale.ph/irhydra/2/) - A tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
-  * [JISON](http://zaa.ch/jison/docs/) - a context-free grammar parser generator for JavaScript.
+  * [JISON](http://zaa.ch/jison/docs/) - A context-free grammar parser generator for JavaScript.
   * [PEG.js](https://pegjs.org) - A simple parser generator for JavaScript.
 
 ### JVM
@@ -284,7 +284,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Dis](https://docs.python.org/3.6/library/dis.html) - Python's builtin Disassembler package.
   * [Parsing](http://www.canonware.com/Parsing/) - A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers.
   * [PLY](http://www.dabeaz.com/ply/) - An implementation of lex and yacc parsing tools for Python.
-  * [PyParsing](http://pyparsing.wikispaces.com/) - an alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions.
+  * [PyParsing](http://pyparsing.wikispaces.com/) - An alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions.
   * [RPLY](https://github.com/alex/rply) - A port of the PLY project to RPython.
   * [RPython](https://rpython.readthedocs.io/en/latest/) - RPython is a framework for the implementatation of dynamic languages.
 
@@ -297,7 +297,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Combine](https://github.com/Marwes/combine) - Parser Combinator Library for Rust.
   * [IronLLVM](https://github.com/jauhien/iron-llvm) - Safe LLVM bindings for Rust.
-  * [LALRPOP](https://github.com/nikomatsakis/lalrpop) -  LR(1) parser generator for Rust
+  * [LALRPOP](https://github.com/nikomatsakis/lalrpop) - LR(1) parser generator for Rust.
   * [Nom](https://github.com/Geal/nom) - Parser Combinator Framework.
   * [PEG](https://github.com/kevinmehall/rust-peg) - A PEG Parser Generator.
   * [Pest](https://github.com/pest-parser/pest) - A PEG Parser Generator.
@@ -328,8 +328,8 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Communities
 
-  * [/r/Compilers](https://www.reddit.com/r/Compilers) - a subreddit community about the theory and development of compilers.
-  * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - a subreddit communit that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
+  * [/r/Compilers](https://www.reddit.com/r/Compilers) - A subreddit community about the theory and development of compilers.
+  * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - A subreddit community that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
 
 
 ## License
