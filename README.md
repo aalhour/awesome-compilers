@@ -8,6 +8,7 @@ A curated list of awesome resources, tools, technologies and source code project
     + [Books](#books)
     + [Papers](#papers)
       * [Researchers and Institutes](#researchers-and-institutes)
+    + [Specifications](#specifications)
     + [Courses](#courses)
     + [Talks](#talks)
     + [Articles](#articles)
@@ -16,10 +17,9 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Projects](#projects)
     + [Production-Ready](#production-ready)
     + [Educational](#educational)
-  * [Construction Technologies](#construction-technologies)
-     + [Backends](#backends)
-     + [Frontends](#frontends)
-     + [Runtimes](#runtimes)
+  * [Tools and Platforms](#tools-and-platforms)
+     + [Language-Agnostic](#language-agnostic)
+     + [Misc](#misc).
   * [Verticals](#verticals)
   * [Communities](#communities)
 
@@ -61,7 +61,6 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
   * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
 
-
 ### Papers
 
   * [A Brief History of JIT Compilation, J. Aycock](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
@@ -92,6 +91,10 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Compilers Lab at Saarland University](http://compilers.cs.uni-saarland.de).
   * [Packrat Parsing (PEG) Papers and Resources](http://bford.info/packrat/).
 
+### Specifications
+
+  * [The CLI (Common Language Interface) Speficiation (ECMA-335)](http://www.ecma-international.org/publications/standards/Ecma-335.htm).
+  * [The JVM (Java Virtual Machine) Specification](https://docs.oracle.com/javase/specs/jvms/se8/html/).
 
 ### Courses
 
@@ -114,7 +117,6 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Virtual Machines Summer School 2016 (VMSS 2016)](http://soft-dev.org/events/vmss16/) - VMSS is a Summer School program that aims to give an overview of the field, targeted at early career researchers.
     + [YouTube Videos Playlist](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW).
 
-
 ### Talks
 
   * [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction).
@@ -131,10 +133,12 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Python, Linkers and Virtual Memory - PYCON US](https://www.youtube.com/watch?v=twQKAoq2OPE).
   * [Reverse Engineering the MOS 6502 CPU](https://youtube.com/watch?v=fWqBmmPQP40).
   * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - an introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
+  * [The JVM (Java Virtual Machine) Architecture](https://www.youtube.com/watch?v=ZBJ0u9MaKtM).
+  * [The MoVfuscator: turning mov into a soul crushing RE nightmare](https://www.youtube.com/watch?v=R7EEoWg6Ekk).
+    + Discussions: [HN](https://news.ycombinator.com/item?id=9751312), [Reddit](https://redd.it/4zl8mh).
   * The SSA (Static Single Assignment) Form - [Part 1](https://www.youtube.com/watch?v=Q7hlcuCGbxE), [Part 2](https://www.youtube.com/watch?v=FV9fq_HfPsM), [Part 3](https://www.youtube.com/watch?v=GyYiic8trCE) - Video Lectures from NPTEL's Compilers Course on SSA Form (see: [Courses](#courses) for more information).
   * [Type-Driven Development with Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ).
   * [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU).
-
 
 ### Articles
 
@@ -146,14 +150,12 @@ A curated list of awesome resources, tools, technologies and source code project
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
 
-
 ### Tutorials
 
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
-
 
 ### Community Discussions
 
@@ -166,6 +168,7 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Implementing Type Inference](http://stackoverflow.com/questions/415532/implementing-type-inference) - StackOverflow question.
   * [I want to build a VM, any good references?](https://softwareengineering.stackexchange.com/questions/178224/i-want-to-build-a-virtual-machine-are-there-any-good-references) - StackExchange thread.
   * [Resources for Amatuer Compilers Writers](https://redd.it/4u15t1) - Question on Reddit.
+  * [What are the good open source implementations of Java Virtual Machine?](http://stackoverflow.com/questions/1621899/what-are-the-good-open-source-implementations-of-java-virtual-machine).
   * [What are the latest research trends in Compilers and PLs](https://www.quora.com/What-are-the-latest-research-trends-in-compilers-and-programming-languages) - Quora thread.
 
 
@@ -175,27 +178,100 @@ A curated list of awesome resources, tools, technologies and source code project
 
 _WIP_.
 
-
 ### Educational
 
 _WIP_.
 
 
-## Construction Technologies
+## Tools and Platforms
 
-### Frontends
+### Language Agnostic
 
-_WIP_.
+  * [B3](https://webkit.org/docs/b3/).
+  * [LLILCL: An LLVM-based Compiler Backend for .NET Core](https://github.com/dotnet/llilc).
+  * [LLVM](http://llvm.org/).
+  * [MicroVM](http://microvm.github.io/).
+  * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator).
+  * [QBE (Quick Backend): SSA-based Backend](http://c9x.me/compile/).
+
+### Runtimes / VMs
+
+  * [CakeML](https://github.com/CakeML/cakeml).
+  * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
+  * JVM Implementations:
+    + [OpenJDK](http://openjdk.java.net/).
+    + [Kaffee](https://github.com/kaffe/kaffe).
+    + [JamVM](http://jamvm.sourceforge.net) - [GitHub project mirror](https://github.com/cfriedt/jamvm).
+    + [Apache Harmony](https://harmony.apache.org/).
+    + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
+
+### CLR
+
+  * [Cecile](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/).
+  * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/).
+  * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/).
+
+### Graal
+
+  * [Graal](https://github.com/graalvm/graal) - High-Performance Polyglot Runtime.
+  * [Graal Core](https://github.com/graalvm/graal-core) - Compiler and Truffel Partial Evaluator.
+  * [Graal VM](https://github.com/graalvm/graalvm) - Graal's multi-language VM distribution.
+
+### JVM
+
+  * [ANTLR](http://www.antlr.org) - A parser generator for reading, processing, executing, or translating structured text or binary files.
+  * [BYAAC/J](http://byaccj.sourceforge.net) - BYACC/Java is an extension of the Berkeley v 1.8 YACC-compatible parser generator for Java.
+  * [JavaCC](https://javacc.org) - Java Compiler Construction and Parser Generator Toolkit.
+  * [JFlex](http://www.jflex.de) - JFlex is a lexical analyzer generator for Java with full Unicode support.
+  * [JLex](http://www.cs.princeton.edu/~appel/modern/java/JLex/) - JLex is a lexical analyzer generator, that can be used in combination with CUP.
+
+### C as a Backend
+
+  * [GCC (GNU Compiler Collection)](https://gcc.gnu.org/).
+  * [libFirm](http://pp.ipd.kit.edu/firm/).
+  * [libJIT](https://www.gnu.org/software/libjit/).
+  * [myJIT](http://myjit.sourceforge.net/).
+  * [PCC (Portable C Compiler)](http://pcc.ludd.ltu.se/).
+  * [TCC (Tiny C Compiler)](http://bellard.org/tcc/).
+
+### JavaScript
+
+  * [IRHudra](http://mrale.ph/irhydra/2/) - A tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
+    + [GitHub Repo](https://github.com/mraleph/irhydra).
+  * [JISON](http://zaa.ch/jison/docs/) - a context-free grammar parser generator for JavaScript.
+  * [PEG.js](https://pegjs.org) - A simple parser generator for JavaScript.
+
+### Kotlin
+
+  * [The Autumn Parsing Library](https://github.com/norswap/autumn).
+
+### Python Tools
+
+  * [AST](https://docs.python.org/3.5/library/ast.html) - Python's builtin Abstract Syntax Tree package.
+  * [Dis](https://docs.python.org/3.6/library/dis.html) - Python's builtin Disassembler package.
+  * [Parsing](http://www.canonware.com/Parsing/).
+  * [PLY](http://www.dabeaz.com/ply/).
+  * [PyParsing](http://pyparsing.wikispaces.com/).
+  * [RPLY - RPython’s PLY Port](https://github.com/alex/rply).
+  * [RPython](https://rpython.readthedocs.io/en/latest/).
+
+#### Lists of Python Parsing Tools
+
+  * [List of Language Parsing Tools at the Python Wiki](https://wiki.python.org/moin/LanguageParsing).
+  * [Survey of Python Parsers, by Ned Batchelder](http://nedbatchelder.com/text/python-parsers.html).
+
+### Rust
+
+  * [Combine: Parser Combinator Library for Rust](https://github.com/Marwes/combine).
+  * [IronLLVM - Safe LLVM Bindings for Rust](https://github.com/jauhien/iron-llvm).
+  * [Nom: Rust Parser Combinator Framework](https://github.com/Geal/nom).
+  * [Pest - Grammar Parser](https://github.com/pest-parser/pest).
+  * [Rust Language Server](https://github.com/rust-lang-nursery/rls).
 
 
-### Backends
+### Misc
 
-_WIP_.
-
-
-### Runtimes
-
-_WIP_.
+  * [A (reusable) basic compiler implementation w/ LLVM](https://github.com/igor84/summus).
 
 
 ## Verticals
