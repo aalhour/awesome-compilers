@@ -249,11 +249,11 @@ _WIP_.
 
   * [AST](https://docs.python.org/3.5/library/ast.html) - Python's builtin Abstract Syntax Tree package.
   * [Dis](https://docs.python.org/3.6/library/dis.html) - Python's builtin Disassembler package.
-  * [Parsing](http://www.canonware.com/Parsing/).
-  * [PLY](http://www.dabeaz.com/ply/).
-  * [PyParsing](http://pyparsing.wikispaces.com/).
-  * [RPLY - RPython’s PLY Port](https://github.com/alex/rply).
-  * [RPython](https://rpython.readthedocs.io/en/latest/).
+  * [Parsing](http://www.canonware.com/Parsing/) - A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers.
+  * [PLY](http://www.dabeaz.com/ply/) - An implementation of lex and yacc parsing tools for Python.
+  * [PyParsing](http://pyparsing.wikispaces.com/) - an alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions.
+  * [RPLY](https://github.com/alex/rply) - A port of the PLY project to RPython.
+  * [RPython](https://rpython.readthedocs.io/en/latest/) - RPython is a framework for the implementatation of dynamic languages.
 
 #### Lists of Python Parsing Tools
 
@@ -262,11 +262,11 @@ _WIP_.
 
 ### Rust
 
-  * [Combine: Parser Combinator Library for Rust](https://github.com/Marwes/combine).
-  * [IronLLVM - Safe LLVM Bindings for Rust](https://github.com/jauhien/iron-llvm).
-  * [Nom: Rust Parser Combinator Framework](https://github.com/Geal/nom).
-  * [Pest - Grammar Parser](https://github.com/pest-parser/pest).
-  * [Rust Language Server](https://github.com/rust-lang-nursery/rls).
+  * [Combine](https://github.com/Marwes/combine) - Parser Combinator Library for Rust.
+  * [IronLLVM](https://github.com/jauhien/iron-llvm) - Safe LLVM bindings for Rust.
+  * [Nom](https://github.com/Geal/nom) - Parser Combinator Framework.
+  * [Pest](https://github.com/pest-parser/pest) - A PEG Parser Generator.
+  * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
 
 
 ## Runtimes and VMs
