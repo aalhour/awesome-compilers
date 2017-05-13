@@ -196,13 +196,13 @@ _WIP_.
 
 ### Language Agnostic
 
-  * [B3](https://webkit.org/docs/b3/).
-  * [LLILCL: An LLVM-based Compiler Backend for .NET Core](https://github.com/dotnet/llilc).
-  * [LLVM](http://llvm.org/).
-  * [MicroVM](http://microvm.github.io/).
-  * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator).
-  * [QBE (Quick Backend): SSA-based Backend](http://c9x.me/compile/).
-  * [A (reusable) basic compiler implementation w/ LLVM](https://github.com/igor84/summus).
+  * [B3: The Bare Bones Backend](https://webkit.org/docs/b3/) - WebKit's optimizing JIT Compiler for procedures containing C-like code.
+  * [LLILCL](https://github.com/dotnet/llilc) - An LLVM-based Compiler Backend for .NET Core.
+  * [LLVM](http://llvm.org/) - The LLVM Compiler-Backend Framework.
+  * [MicroVM](http://microvm.github.io/) - The "Mu" Framewrok for Programming Languages development based on the MuVM Specification.
+  * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
+  * [QBE: The Quick Backend](http://c9x.me/compile/) - A pure C embeddable SSA-based compiler backend.
+  * [Summus](https://github.com/igor84/summus) - A (reusable) basic compiler frontend implementation using LLVM as a backend.
 
 ### C (as a Backend)
 
