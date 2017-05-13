@@ -192,6 +192,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/).
   * [Nim Language Compiler](https://github.com/nim-lang/Nim).
   * [Red Programming Language](https://github.com/red/red).
+  * [TypeScript Language Compiler](https://github.com/Microsoft/TypeScript).
 
 ### Educational and Toys
 
