@@ -17,7 +17,7 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Projects](#projects)
     + [Production-Ready](#production-ready)
     + [Educational](#educational)
-  * [Tools](#tools-and-platforms)
+  * [Tools and Frameworks](#tools-and-frameworks)
      + [Language Agnostic](#language-agnostic)
      + [C (as a Backend)](#c-as-a-backend)
      + [CLR](#clr)
@@ -192,7 +192,7 @@ _WIP_.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - A compiler for the COOL Programming Language written in Python 3.
 
 
-## Tools and Platforms
+## Tools and Frameworks
 
 ### Language Agnostic
 
