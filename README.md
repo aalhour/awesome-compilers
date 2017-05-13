@@ -201,9 +201,18 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
     + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
+  * [CarpVM](https://github.com/tekknolagi/carp) - An experimental VM implementation in C.
+  * [Gecho](https://github.com/tekknolagi/gecho) - A simple-stack language implementation in C.
   * [Hython](https://github.com/mattgreen/hython) - A Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
+  * [MetaScala](https://github.com/lihaoyi/Metascala) - A Metacircular JVM implementation in Scala.
+  * [Poprc](https://github.com/HackerFoo/poprc) - A compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - A compiler for the COOL Programming Language written in Python 3.
+  * [RabbitVM](https://github.com/rabbitvm/rabbit) - A RISC-based VM implementation in C.
+  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - a Stack-machine simulator.
+  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - a tiny educational compiler project in JavaScript.
+    + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
+  * [tiny.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - A Tiny-C language compiler in C.
 
 
 ## Tools and Frameworks
