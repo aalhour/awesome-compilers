@@ -17,19 +17,18 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Projects](#projects)
     + [Production-Ready](#production-ready)
     + [Educational](#educational)
-  * [Tools and Platforms](#tools-and-platforms)
-     + [Language-Agnostic](#language-agnostic)
-     + [Runtimes and VMs](#runtimes-and-vms).
-     + [CLR](#clr).
-     + [Graal](#graal).
-     + [JVM](#jvm).
-     + [C as a Backend](#c-as-a-backend).
-     + [JavaScript](#javascript).
-     + [Kotlin](#kotlin).
-     + [Python](#python).
+  * [Tools](#tools-and-platforms)
+     + [Language Agnostic](#language-agnostic)
+     + [C (as a Backend)](#c-as-a-backend)
+     + [CLR](#clr)
+     + [Graal](#graal)
+     + [JavaScript](#javascript)
+     + [JVM](#jvm)
+     + [Kotlin](#kotlin)
+     + [Python](#python)
        * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools).
-     + [Rust](#rust).
-     + [Misc](#misc).
+     + [Rust](#rust)
+  * [Runtimes and VMs](#runtimes-and-vms)
   * [Verticals](#verticals)
   * [Communities](#communities)
 
@@ -203,17 +202,16 @@ _WIP_.
   * [MicroVM](http://microvm.github.io/).
   * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator).
   * [QBE (Quick Backend): SSA-based Backend](http://c9x.me/compile/).
+  * [A (reusable) basic compiler implementation w/ LLVM](https://github.com/igor84/summus).
 
-### Runtimes and VMs
+### C (as a Backend)
 
-  * [CakeML](https://github.com/CakeML/cakeml).
-  * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
-  * JVM Implementations:
-    + [OpenJDK](http://openjdk.java.net/).
-    + [Kaffee](https://github.com/kaffe/kaffe).
-    + [JamVM](http://jamvm.sourceforge.net) - [GitHub project mirror](https://github.com/cfriedt/jamvm).
-    + [Apache Harmony](https://harmony.apache.org/).
-    + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
+  * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection.
+  * [libFirm](http://pp.ipd.kit.edu/firm/) - A C library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
+  * [libJIT](https://www.gnu.org/software/libjit/) - a library that provides generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
+  * [myJIT](http://myjit.sourceforge.net/) - A library for machine-code generation and execution at run-time.
+  * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler.
+  * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler.
 
 ### CLR
 
@@ -227,6 +225,13 @@ _WIP_.
   * [Graal Core](https://github.com/graalvm/graal-core) - Compiler and Truffel Partial Evaluator.
   * [Graal VM](https://github.com/graalvm/graalvm) - Graal's multi-language VM distribution.
 
+### JavaScript
+
+  * [IRHudra](http://mrale.ph/irhydra/2/) - A tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
+    + [GitHub Repo](https://github.com/mraleph/irhydra).
+  * [JISON](http://zaa.ch/jison/docs/) - a context-free grammar parser generator for JavaScript.
+  * [PEG.js](https://pegjs.org) - A simple parser generator for JavaScript.
+
 ### JVM
 
   * [ANTLR](http://www.antlr.org) - A parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -234,22 +239,6 @@ _WIP_.
   * [JavaCC](https://javacc.org) - Java Compiler Construction and Parser Generator Toolkit.
   * [JFlex](http://www.jflex.de) - JFlex is a lexical analyzer generator for Java with full Unicode support.
   * [JLex](http://www.cs.princeton.edu/~appel/modern/java/JLex/) - JLex is a lexical analyzer generator, that can be used in combination with CUP.
-
-### C as a Backend
-
-  * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection.
-  * [libFirm](http://pp.ipd.kit.edu/firm/) - A C library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
-  * [libJIT](https://www.gnu.org/software/libjit/) - a library that provides generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
-  * [myJIT](http://myjit.sourceforge.net/) - A library for machine-code generation and execution at run-time.
-  * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler.
-  * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler.
-
-### JavaScript
-
-  * [IRHudra](http://mrale.ph/irhydra/2/) - A tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
-    + [GitHub Repo](https://github.com/mraleph/irhydra).
-  * [JISON](http://zaa.ch/jison/docs/) - a context-free grammar parser generator for JavaScript.
-  * [PEG.js](https://pegjs.org) - A simple parser generator for JavaScript.
 
 ### Kotlin
 
@@ -279,9 +268,16 @@ _WIP_.
   * [Rust Language Server](https://github.com/rust-lang-nursery/rls).
 
 
-### Misc
+## Runtimes and VMs
 
-  * [A (reusable) basic compiler implementation w/ LLVM](https://github.com/igor84/summus).
+  * [CakeML](https://github.com/CakeML/cakeml).
+  * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
+  * JVM Implementations:
+    + [OpenJDK](http://openjdk.java.net/).
+    + [Kaffee](https://github.com/kaffe/kaffe).
+    + [JamVM](http://jamvm.sourceforge.net) - [GitHub project mirror](https://github.com/cfriedt/jamvm).
+    + [Apache Harmony](https://harmony.apache.org/).
+    + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
 
 
 ## Verticals
