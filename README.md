@@ -213,3 +213,9 @@ _WIP_.
   * [/r/Compilers](https://www.reddit.com/r/Compilers) - a subreddit community about the theory and development of compilers.
   * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - a subreddit communit that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
 
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Ahmad Alhour](http://aalhour.de) has waived all copyright and related or neighboring rights to this work.
