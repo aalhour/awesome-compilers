@@ -19,6 +19,16 @@ A curated list of awesome resources, tools, technologies and source code project
     + [Educational](#educational)
   * [Tools and Platforms](#tools-and-platforms)
      + [Language-Agnostic](#language-agnostic)
+     + [Runtimes and VMs](#runtimes-and-vms).
+     + [CLR](#clr).
+     + [Graal](#graal).
+     + [JVM](#jvm).
+     + [C as a Backend](#c-as-a-backend).
+     + [JavaScript](#javascript).
+     + [Kotlin](#kotlin).
+     + [Python](#python).
+       * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools).
+     + [Rust](#rust).
      + [Misc](#misc).
   * [Verticals](#verticals)
   * [Communities](#communities)
@@ -194,7 +204,7 @@ _WIP_.
   * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator).
   * [QBE (Quick Backend): SSA-based Backend](http://c9x.me/compile/).
 
-### Runtimes / VMs
+### Runtimes and VMs
 
   * [CakeML](https://github.com/CakeML/cakeml).
   * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
@@ -227,12 +237,12 @@ _WIP_.
 
 ### C as a Backend
 
-  * [GCC (GNU Compiler Collection)](https://gcc.gnu.org/).
-  * [libFirm](http://pp.ipd.kit.edu/firm/).
-  * [libJIT](https://www.gnu.org/software/libjit/).
-  * [myJIT](http://myjit.sourceforge.net/).
-  * [PCC (Portable C Compiler)](http://pcc.ludd.ltu.se/).
-  * [TCC (Tiny C Compiler)](http://bellard.org/tcc/).
+  * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection.
+  * [libFirm](http://pp.ipd.kit.edu/firm/) - A C library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
+  * [libJIT](https://www.gnu.org/software/libjit/) - a library that provides generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
+  * [myJIT](http://myjit.sourceforge.net/) - A library for machine-code generation and execution at run-time.
+  * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler.
+  * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler.
 
 ### JavaScript
 
@@ -245,7 +255,7 @@ _WIP_.
 
   * [The Autumn Parsing Library](https://github.com/norswap/autumn).
 
-### Python Tools
+### Python
 
   * [AST](https://docs.python.org/3.5/library/ast.html) - Python's builtin Abstract Syntax Tree package.
   * [Dis](https://docs.python.org/3.6/library/dis.html) - Python's builtin Disassembler package.
