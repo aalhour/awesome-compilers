@@ -169,7 +169,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Community Discussions
 
-  * [Can we stop recommending the Dragon Book, please?](https://meta.stackexchange.com/questions/25840/can-we-stop-recommending-the-dragon-book-please).
+  * [Can we stop recommending the Dragon Book, please?](https://meta.stackexchange.com/questions/25840/can-we-stop-recommending-the-dragon-book-please) - A StackExchange thread criticising the [Dragons Book](https://www.amazon.com/dp/0321486811).
   * [Difference between an LL and Recursive Descent parser?](http://stackoverflow.com/questions/1044600/difference-between-an-ll-and-recursive-descent-parser) - StackOverflow question.
   * Does a compiler use all x86 instructions? - [@HN](https://news.ycombinator.com/item?id=12352959), [@Reddit](https://redd.it/4zgawj) - Article discussions on HN and Reddit.
   * [How to Write a Compiler](https://redd.it/4o7qag) - Article discussion on Reddit.
