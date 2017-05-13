@@ -37,9 +37,9 @@ A curated list of awesome resources, tools, technologies and source code project
   * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
   * [Crafting Interpreters: A Handbook for Making Programming Languages, B. Nystrom](http://www.craftinginterpreters.com/).
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
-    + [HackerNews Discussion](https://news.ycombinator.com/item?id=13406081).
+    + Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
   * [Create Your Own Programming Language](http://createyourproglang.com/).
-    + [HackerNews Discussion](https://news.ycombinator.com/item?id=813133).
+    + Discussions: [HN](https://news.ycombinator.com/item?id=813133).
   * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers and Interpreters.
   * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
   * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about computer construction from Nand Gates, through Assemblers, Compilers up to Operating Systems and Tetris game development.
