@@ -158,14 +158,14 @@ A curated list of awesome resources, tools, technologies and source code project
 ### Community Discussions
 
   * [Difference between an LL and Recursive Descent parser?](http://stackoverflow.com/questions/1044600/difference-between-an-ll-and-recursive-descent-parser) - StackOverflow question.
-  * Does a compiler use all x86 instructions? - [@HackerNews](https://news.ycombinator.com/item?id=12352959), [@Reddit](https://redd.it/4zgawj) - Article discussions on HackerNews and Reddit.
-  * [How to Write a Compiler](https://redd.it/4o7qag) - Article discussion at Reddit.
+  * Does a compiler use all x86 instructions? - [@HN](https://news.ycombinator.com/item?id=12352959), [@Reddit](https://redd.it/4zgawj) - Article discussions on HN and Reddit.
+  * [How to Write a Compiler](https://redd.it/4o7qag) - Article discussion on Reddit.
   * [How to Write a Very Basic Compiler](https://softwareengineering.stackexchange.com/questions/165543/how-to-write-a-very-basic-compiler) - StackExchange thread.
   * [How to Write a Prolog Interpreter in a Purely Functional Language](https://cs.stackexchange.com/questions/6618/how-to-implement-a-prolog-interpreter-in-a-purely-functional-language) - StackExchange thread.
     + Discussions: [Reddit](https://redd.it/4u2xt3).
-  * [Implementing Type Inference](http://stackoverflow.com/questions/415532/implementing-type-inference) - StackOverflow 
+  * [Implementing Type Inference](http://stackoverflow.com/questions/415532/implementing-type-inference) - StackOverflow question.
   * [I want to build a VM, any good references?](https://softwareengineering.stackexchange.com/questions/178224/i-want-to-build-a-virtual-machine-are-there-any-good-references) - StackExchange thread.
-  * [Resources for Amatuer Compilers Writers](https://redd.it/4u15t1).
+  * [Resources for Amatuer Compilers Writers](https://redd.it/4u15t1) - Question on Reddit.
   * [What are the latest research trends in Compilers and PLs](https://www.quora.com/What-are-the-latest-research-trends-in-compilers-and-programming-languages) - Quora thread.
 
 
