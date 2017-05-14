@@ -386,6 +386,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Verticals
 
+  * [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis).
   * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
   * [PLT Enlightenment](http://steshaw.org/plt/).
