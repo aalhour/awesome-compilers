@@ -249,7 +249,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
   * [Lua Programming Language](https://github.com/LuaDist/lua) - Official Lua Language interperter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
-  * [Mirah Compiler](https://github.com/mirah/mirah) - JVM-based Compiler ofr Mirah Language.
+  * [Mirah Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
   * [Nim Compiler](https://github.com/nim-lang/Nim).
   * [Red Language](https://github.com/red/red).
   * [TypeScript Compiler](https://github.com/Microsoft/TypeScript).
