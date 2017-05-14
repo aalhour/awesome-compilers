@@ -403,6 +403,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Ahmad Alhour](http://aalhour.de) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Ahmad Alhour](http://aalhour.com) has waived all copyright and related or neighboring rights to this work.
 
 The logo was designed using [TextCraft](https://textcraft.net).
