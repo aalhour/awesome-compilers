@@ -225,6 +225,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### Production-Ready
 
+  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme).
   * [Lua Programming Language](https://github.com/LuaDist/lua).
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/).
@@ -294,7 +295,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### JavaScript
 
-  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [IRHudra](http://mrale.ph/irhydra/2/) - A tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - A context-free grammar parser generator for JavaScript.
