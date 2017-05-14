@@ -60,6 +60,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Modern Compiler Implementation in ML, A. Appel](https://www.cs.princeton.edu/~appel/modern/ml/).
   * [Modern Compiler Implementation in Java, A. Appel](https://www.cs.princeton.edu/~appel/modern/java/).
   * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
+  * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X) - A comprehensive overview of Parsing Techniques and Algorithms.
+    + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
   * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144).
   * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/).
     + [PDF Document](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
