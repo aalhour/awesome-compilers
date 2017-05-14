@@ -124,8 +124,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Specifications
 
-  * [The CLI (Common Language Interface) Specification (ECMA-335)](http://www.ecma-international.org/publications/standards/Ecma-335.htm).
-  * [The JVM (Java Virtual Machine) Specification](https://docs.oracle.com/javase/specs/jvms/se8/html/).
+  * [CLI (ECMA-335) Specification](http://www.ecma-international.org/publications/standards/Ecma-335.htm).
+  * [Mu Specification](https://gitlab.anu.edu.au/mu/mu-spec).
+  * [JVM SE8 Specification](https://docs.oracle.com/javase/specs/jvms/se8/html/).
 
 ### Courses
 
