@@ -1,6 +1,8 @@
-# Awesome Compilers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![AWESOME COMPILERS](img/awesome-compilers.png)
 
 A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
+
+[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
 
@@ -399,3 +401,5 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ahmad Alhour](http://aalhour.de) has waived all copyright and related or neighboring rights to this work.
+
+The logo was designed using [TextCraft](https://textcraft.net).
