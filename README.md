@@ -168,6 +168,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
+  * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
 
 ### Community Discussions
 
