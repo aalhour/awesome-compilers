@@ -337,11 +337,11 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Blogs
 
-  * [LVM Weekly](http://llvmweekly.org/).
-  * [John Regehr](https://blog.regehr.org/).
   * [Eli Bendersky](http://eli.thegreenplace.net/).
+  * [John Regehr](https://blog.regehr.org/).
   * [Krister Walfridsson](https://kristerw.blogspot.com/).
   * [LLVM Developers' Meetings](http://llvm.org/devmtg/).
+  * [LLVM Weekly](http://llvmweekly.org/) - A weekly newsletter about LLVM.
 
 
 ## Communities
