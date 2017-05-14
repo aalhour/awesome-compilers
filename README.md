@@ -261,6 +261,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [MicroVM](http://microvm.github.io/) - The "Mu" Framewrok for Programming Languages development based on the MuVM Specification.
   * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
   * [QBE: The Quick Backend](http://c9x.me/compile/) - A pure C embeddable SSA-based compiler backend.
+  * [Rubinius](https://github.com/rubinius/rubinius) - A Programming Languages Development Platform.
   * [Summus](https://github.com/igor84/summus) - A (reusable) basic compiler frontend implementation using LLVM as a backend.
 
 ### C (as a Backend)
