@@ -174,6 +174,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Java AOT (Ahead of Time) Compilation](https://2016.javazone.no/program/java-aot-compilation).
   * [MetaScala: A Tiny DIY JVM](https://skillsmatter.com/skillscasts/4916-metascala-a-tiny-diy-jvm) - Metascala is a tiny metacircular Java Virtual Machine (JVM) written in the Scala programming language.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
+  * [One VM to Rule Them All, One VM to Bind Them](https://www.youtube.com/watch?v=FJY96_6Y3a4) - Tutorial on the Truffel technology.
   * [Python, Linkers and Virtual Memory - PYCON US](https://www.youtube.com/watch?v=twQKAoq2OPE).
   * [Reverse Engineering the MOS 6502 CPU](https://youtube.com/watch?v=fWqBmmPQP40).
   * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - Introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
@@ -197,9 +198,18 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Part 3 - LLVM](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/).
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
   * [ALIVe: Automatic LLVM InstCombine Verifier](https://blog.regehr.org/archives/1170).
+  * [Graal and Truffel](https://blog.plan99.net/graal-truffle-134d8f28fb69) - Obscure research project could radically accelerate innovation in programming language design.
+    + Discussions: [Reddit](https://redd.it/4tm4mj).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
+  * [Interpreter, Compiler and JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/).
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
+  * [LLVM Architecture](http://www.aosabook.org/en/llvm.html) - Chapter from the book Architecture of Open Source Applications.
   * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
+  * [Rust Compiler Walk-Through](https://gchp.ie/2016/08/09/rust-compiler-walkthrough-introduction/).
+  * [Rust's Incremental Compilation](https://blog.rust-lang.org/2016/09/08/incremental.html).
+  * [Rust’s Upcoming MIR](https://blog.rust-lang.org/2016/04/19/MIR.html).
+  * [The Memory Models that Underlie Programming Languages](http://canonical.org/~kragen/memory-models/).
+
 
 ### Tutorials
 
@@ -211,6 +221,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
+  * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
 
 ### Community Discussions
 
