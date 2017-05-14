@@ -321,6 +321,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [ANTLR](http://www.antlr.org) - A parser generator for reading, processing, executing, or translating structured text or binary files.
   * [BYAAC/J](http://byaccj.sourceforge.net) - BYACC/Java is an extension of the Berkeley v 1.8 YACC-compatible parser generator for Java.
   * [CGLIB](https://github.com/cglib/cglib) - A high level API library for generating and transforming Java Byte Code.
+  * [FCP JVM](http://wiki.freepascal.org/FPC_JVM) - A JVM Backend for generating Java Byte Code that conforms to the JDK v1.5+ Specification and the Dalvik VM.
   * [JavaCC](https://javacc.org) - Java Compiler Construction and Parser Generator Toolkit.
   * [JFlex](http://www.jflex.de) - JFlex is a lexical analyzer generator for Java with full Unicode support.
   * [JLex](http://www.cs.princeton.edu/~appel/modern/java/JLex/) - JLex is a lexical analyzer generator, that can be used in combination with CUP.
