@@ -6,11 +6,16 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [Learning](#learning)
     + [Books](#books)
+      * [General Overview](#general-overview)
+      * [Introductory](#introductory)
+      * [Advanced](#advanced)
     + [Papers](#papers)
       * [Researchers and Institutes](#researchers-and-institutes)
     + [Specifications](#specifications)
     + [Courses](#courses)
-    + [Talks](#talks)
+    + [Talks and Conferences](#talks-and-conferences)
+      * [Channels](#channels)
+      * [Videos](#videos)
     + [Articles](#articles)
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
@@ -31,8 +36,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
        * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools).
      + [Rust](#rust)
   * [Runtimes and VMs](#runtimes-and-vms)
-  * [Verticals](#verticals)
+  * [Blogs](#blogs)
   * [Communities](#communities)
+  * [Verticals](#verticals)
 
 -----------------------------------------
 
@@ -41,35 +47,47 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Books
 
-  * [Advanced Compiler Design and Implementation, S. Muchnick](https://www.amazon.com/dp/1558603204).
-  * [Advanced Topics in Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162288).
+#### General Overview
+
+  * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers, Interpreters and Runtimes.
+  * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about Computer Construction starting with Nand Logic Gates. The book covers basics of Machine Code, Assemblers, Compilers and Operating Systems.
+  * [SICP (Structure and Interpretation of Computer Programs), H. Abelson, G. Sussman](https://mitpress.mit.edu/sicp/full-text/book/book.html).
+  
+#### Introductory
+
   * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/).
   * [Beautiful Racket - How to Make Your Own PL with Racket, M. But­t­er­ick](http://beautifulracket.com).
-  * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
   * [Crafting Interpreters: A Handbook for Making Programming Languages, B. Nystrom](http://www.craftinginterpreters.com/).
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
     + Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
   * [Create Your Own Programming Language](http://createyourproglang.com/).
     + Discussions: [HN](https://news.ycombinator.com/item?id=813133).
-  * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers and Interpreters.
-  * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
-  * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about computer construction from Nand Gates, through Assemblers, Compilers up to Operating Systems and Tetris game development.
   * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X).
   * [Essentials of Programming Languages, D. Friedman & M. Wand](https://www.amazon.com/dp/0262062798).
   * [Language Implementation Patterns, T. Parr](https://www.amazon.com/dp/193435645X).
-  * [Modern Compiler Implementation in C, A. Appel](https://www.cs.princeton.edu/~appel/modern/c/).
   * [Modern Compiler Implementation in ML, A. Appel](https://www.cs.princeton.edu/~appel/modern/ml/).
-  * [Modern Compiler Implementation in Java, A. Appel](https://www.cs.princeton.edu/~appel/modern/java/).
-  * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
+    + Other editions: [MCI in C](https://www.cs.princeton.edu/~appel/modern/c/), [MCI in Java](https://www.cs.princeton.edu/~appel/modern/java/).
   * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144).
   * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/).
-    + [PDF Document](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
+    + [PDF](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
   * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
-  * Project Oberon, N. Wirth & J. Gutknecht - [1992 Edition](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf), [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
-  * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf).
-  * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091).
+  * [Project Oberon, N. Wirth & J. Gutknecht](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf).
+    + Other editions: [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
+
+#### Advanced
+
+  * [Advanced Compiler Design and Implementation, S. Muchnick](https://www.amazon.com/dp/1558603204).
+  * [Advanced Topics in Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162288).
+  * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
+  * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
+  * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953) - A book about Instruction Level Parallelism (ILP) compilation techniques.
+  * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
+  * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X) - A comprehensive overview of Parsing Techniques and Algorithms.
+    + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
+  * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf).
+  * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091).
   * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
 
 ### Papers
@@ -81,11 +99,13 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [A Simple Multi-Processor Computer Based on Subleq, O. Mazonka, A. Kolodin](https://arxiv.org/abs/1106.2593).
   * [Compiler Construction Using Scheme, E. Hilsdale, J. Ashley, R. Dybvig & D. Friedman](https://www.cs.indiana.edu/~dyb/pubs/fple95.pdf).
   * [Compiling with Continuations: Continued, A. Kennedy](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf).
+  * [Draining the Swamp: Micro Virtual Machines as Solid Foundation for Languauage Development, K. Wang, Y. Lin, S. Blackburn, M. Norrish & A. Hosking](http://drops.dagstuhl.de/opus/volltexte/2015/5034/pdf/24.pdf).
   * [Machine Code Obfuscation via Instruction Set Reduction and CFG Linearization, C. Jonischkeit](https://kirschju.re/static/ba_jonischkeit_2016.pdf).
   * [`MOV` is Turing-Complete, S. Dolan](https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf).
     + Discussions: [HN](https://news.ycombinator.com/item?id=6309631), [Reddit](https://redd.it/1nft0x).
   * [Nanopass Framework for Commercial Compiler Development, A. Keep & R. Dybvig](https://www.cs.indiana.edu/~dyb/pubs/commercial-nanopass.pdf).
   * [Nanopass Framework for Compiler Education, D. Sarkar, O. Waddell & R. Dybvig](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
+  * [Notes on Graph Algorithms Used in Optimizing Compilers, C. Offner](http://www.cs.umb.edu/%7Eoffner/files/flow_graph.pdf).
   * [Packrat Parsing Thesis on PEG, B. Ford](https://pdos.csail.mit.edu/~baford/packrat/thesis/).
   * [PEG-based transformer provides front-end, middle-end and back-end stages in a simple Compiler, I. Piumarta](http://www.vpri.org/pdf/tr2010003_PEG.pdf).
   * [Pycket: A Tracing JIT for a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf).
@@ -105,8 +125,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Specifications
 
-  * [The CLI (Common Language Interface) Specification (ECMA-335)](http://www.ecma-international.org/publications/standards/Ecma-335.htm).
-  * [The JVM (Java Virtual Machine) Specification](https://docs.oracle.com/javase/specs/jvms/se8/html/).
+  * [CLI (ECMA-335) Specification](http://www.ecma-international.org/publications/standards/Ecma-335.htm).
+  * [Mu Specification](https://gitlab.anu.edu.au/mu/mu-spec).
+  * [JVM SE8 Specification](https://docs.oracle.com/javase/specs/jvms/se8/html/).
 
 ### Courses
 
@@ -129,17 +150,23 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Virtual Machines Summer School 2016 (VMSS 2016)](http://soft-dev.org/events/vmss16/) - VMSS is a Summer School program that aims to give an overview of the field, targeted at early career researchers.
     + [YouTube Videos Playlist](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW).
 
-### Talks
+### Talks and Conferences
+
+#### Channels
+
+  * [Curry On! Conference](http://www.curry-on.org/) - Programming Languages Conference.
+    + [YouTube Channel](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w/videos).
+  * [Lang.NEXT Conference 2012](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012).
+  * [Lang.NEXT Conference 2014](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014).
+  * [LLVM Developers Meeting YouTube Channel](https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ).
+
+#### Videos
 
   * [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction).
   * [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk).
   * [Building an Interpreter in RPython](https://www.youtube.com/watch?v=9tDpjzPLvNY).
-  * [Curry On! Conference](http://www.curry-on.org/) - Programming Languages Conference.
-    + [YouTube Channel](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w/videos).
   * [Exploring Python’s Bytecode](https://ep2016.europython.eu/media/conference/slides/exploring-python-bytecode.pdf).
   * [Java AOT (Ahead of Time) Compilation](https://2016.javazone.no/program/java-aot-compilation).
-  * [Lang.NEXT Conference 2012](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012).
-  * [Lang.NEXT Conference 2014](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014).
   * [MetaScala: A Tiny DIY JVM](https://skillsmatter.com/skillscasts/4916-metascala-a-tiny-diy-jvm) - Metascala is a tiny metacircular Java Virtual Machine (JVM) written in the Scala programming language.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
   * [Python, Linkers and Virtual Memory - PYCON US](https://www.youtube.com/watch?v=twQKAoq2OPE).
@@ -148,29 +175,36 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [The JVM (Java Virtual Machine) Architecture](https://www.youtube.com/watch?v=ZBJ0u9MaKtM).
   * [The MoVfuscator: turning mov into a soul crushing RE nightmare](https://www.youtube.com/watch?v=R7EEoWg6Ekk).
     + Discussions: [HN](https://news.ycombinator.com/item?id=9751312), [Reddit](https://redd.it/4zl8mh).
-  * The SSA (Static Single Assignment) Form - [Part 1](https://www.youtube.com/watch?v=Q7hlcuCGbxE), [Part 2](https://www.youtube.com/watch?v=FV9fq_HfPsM), [Part 3](https://www.youtube.com/watch?v=GyYiic8trCE) - Video Lectures from NPTEL's Compilers Course on SSA Form (see: [Courses](#courses) for more information).
+  * The SSA Form - Video Lectures from NPTEL's Compilers Course (see: [Courses](#courses) for more info):
+    + [Part 1](https://www.youtube.com/watch?v=Q7hlcuCGbxE).
+    + [Part 2](https://www.youtube.com/watch?v=FV9fq_HfPsM).
+    + [Part 3](https://www.youtube.com/watch?v=GyYiic8trCE).
   * [Type-Driven Development with Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ).
   * [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU).
 
 ### Articles
 
+  * [A Tourist’s Guide to the LLVM Source Code](https://blog.regehr.org/archives/1453).
   * [Accidentally Turing Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html).
   * Adventures in JIT Compilation by Eli Bendersky:
     + [Part 1 - An Interpreter](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/).
     + [Part 2 - An x64 JIT](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-2-an-x64-jit/).
     + [Part 3 - LLVM](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/).
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
+  * [ALIVe: Automatic LLVM InstCombine Verifier](https://blog.regehr.org/archives/1170).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
+  * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
 
 ### Tutorials
 
   * [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/).
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
-  * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
   * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/).
+  * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
+  * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
 
 ### Community Discussions
@@ -195,9 +229,11 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### Production-Ready
 
+  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme).
   * [Lua Programming Language](https://github.com/LuaDist/lua).
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/).
+  * [Mirah Language JVM Compiler](https://github.com/mirah/mirah).
   * [Nim Language Compiler](https://github.com/nim-lang/Nim).
   * [Red Programming Language](https://github.com/red/red).
   * [TypeScript Language Compiler](https://github.com/Microsoft/TypeScript).
@@ -230,6 +266,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [MicroVM](http://microvm.github.io/) - The "Mu" Framewrok for Programming Languages development based on the MuVM Specification.
   * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
   * [QBE: The Quick Backend](http://c9x.me/compile/) - A pure C embeddable SSA-based compiler backend.
+  * [Rubinius](https://github.com/rubinius/rubinius) - A Programming Languages Development Platform.
   * [Summus](https://github.com/igor84/summus) - A (reusable) basic compiler frontend implementation using LLVM as a backend.
 
 ### C (as a Backend)
@@ -243,7 +280,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### CLR
 
-  * [Cecile](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) - A library to generate and inspect programs and libraries in the ECMA CIL format.
+  * [Cecil](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) - A library to generate and inspect programs and libraries in the ECMA CIL format.
   * [ILSpy](http://ilspy.net) - A .NET Decompiler.
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - A .NET Decompiler.
   * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - An an assembly editor which can be used as a plugin with other .NET/CLR tools.
@@ -272,7 +309,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### JavaScript
 
-  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [IRHudra](http://mrale.ph/irhydra/2/) - A tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - A context-free grammar parser generator for JavaScript.
@@ -327,8 +363,24 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
 
 
+## Blogs
+
+  * [Eli Bendersky](http://eli.thegreenplace.net/).
+  * [John Regehr](https://blog.regehr.org/).
+  * [Krister Walfridsson](https://kristerw.blogspot.com/).
+  * [LLVM Developers' Meetings](http://llvm.org/devmtg/).
+  * [LLVM Weekly](http://llvmweekly.org/) - A weekly newsletter about LLVM.
+
+
+## Communities
+
+  * [/r/Compilers](https://www.reddit.com/r/Compilers) - A subreddit community about the theory and development of compilers.
+  * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - A subreddit community that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
+
+
 ## Verticals
 
+  * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
   * [PLT Enlightenment](http://steshaw.org/plt/).
   * [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/).
@@ -336,12 +388,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Summer Schools](https://gist.github.com/biboudis/377b4a4de4d1718df2d0).
   * [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc).
   * [TypeFunc](https://github.com/williamdemeo/TypeFunc).
-
-
-## Communities
-
-  * [/r/Compilers](https://www.reddit.com/r/Compilers) - A subreddit community about the theory and development of compilers.
-  * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - A subreddit community that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
 
 
 ## License
