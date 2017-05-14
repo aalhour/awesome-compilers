@@ -161,6 +161,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
+  * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
 
 ### Tutorials
 
