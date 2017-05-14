@@ -32,8 +32,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
        * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools).
      + [Rust](#rust)
   * [Runtimes and VMs](#runtimes-and-vms)
-  * [Verticals](#verticals)
+  * [Blogs](#blogs)
   * [Communities](#communities)
+  * [Verticals](#verticals)
 
 -----------------------------------------
 
@@ -168,12 +169,14 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Articles
 
+  * [A Tourist’s Guide to the LLVM Source Code](https://blog.regehr.org/archives/1453).
   * [Accidentally Turing Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html).
   * Adventures in JIT Compilation by Eli Bendersky:
     + [Part 1 - An Interpreter](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/).
     + [Part 2 - An x64 JIT](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-2-an-x64-jit/).
     + [Part 3 - LLVM](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/).
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
+  * [ALIVe: Automatic LLVM InstCombine Verifier](https://blog.regehr.org/archives/1170).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
   * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
@@ -332,8 +335,24 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
 
 
+## Blogs
+
+  * [LVM Weekly](http://llvmweekly.org/).
+  * [John Regehr](https://blog.regehr.org/).
+  * Eli Bendersky](http://eli.thegreenplace.net/).
+  * [Krister Walfridsson](https://kristerw.blogspot.com/).
+  * [LLVM Developers' Meetings](http://llvm.org/devmtg/).
+
+
+## Communities
+
+  * [/r/Compilers](https://www.reddit.com/r/Compilers) - A subreddit community about the theory and development of compilers.
+  * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - A subreddit community that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
+
+
 ## Verticals
 
+  * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
   * [PLT Enlightenment](http://steshaw.org/plt/).
   * [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/).
@@ -341,12 +360,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Summer Schools](https://gist.github.com/biboudis/377b4a4de4d1718df2d0).
   * [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc).
   * [TypeFunc](https://github.com/williamdemeo/TypeFunc).
-
-
-## Communities
-
-  * [/r/Compilers](https://www.reddit.com/r/Compilers) - A subreddit community about the theory and development of compilers.
-  * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - A subreddit community that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
 
 
 ## License
