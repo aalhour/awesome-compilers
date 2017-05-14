@@ -14,8 +14,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Specifications](#specifications)
     + [Courses](#courses)
     + [Talks and Conferences](#talks-and-conferences)
-      * [Channels](#channels).
-      * [Videos](#videos).
+      * [Channels](#channels)
+      * [Videos](#videos)
     + [Articles](#articles)
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
