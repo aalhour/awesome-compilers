@@ -247,6 +247,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Hython](https://github.com/mattgreen/hython) - A Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
   * [MetaScala](https://github.com/lihaoyi/Metascala) - A Metacircular JVM implementation in Scala.
+  * [mini-js](https://github.com/maierfelix/mini-js) - An experimental self-hosted JavaScript compiler in 1K LoC.
   * [Poprc](https://github.com/HackerFoo/poprc) - A compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - A compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - A RISC-based VM implementation in C.
