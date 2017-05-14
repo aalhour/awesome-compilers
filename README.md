@@ -6,6 +6,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [Learning](#learning)
     + [Books](#books)
+      * [General Overview](#general-overview)
+      * [Introductory](#introductory)
+      * [Advanced](#advanced)
     + [Papers](#papers)
       * [Researchers and Institutes](#researchers-and-institutes)
     + [Specifications](#specifications)
@@ -43,38 +46,47 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Books
 
-  * [Advanced Compiler Design and Implementation, S. Muchnick](https://www.amazon.com/dp/1558603204).
-  * [Advanced Topics in Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162288).
+#### General Overview
+
+  * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers, Interpreters and Runtimes.
+  * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about Computer Construction starting with Nand Logic Gates. The book covers basics of Machine Code, Assemblers, Compilers and Operating Systems.
+  * [SICP (Structure and Interpretation of Computer Programs), H. Abelson, G. Sussman](https://mitpress.mit.edu/sicp/full-text/book/book.html).
+  
+#### Introductory
+
   * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/).
   * [Beautiful Racket - How to Make Your Own PL with Racket, M. But­t­er­ick](http://beautifulracket.com).
-  * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
   * [Crafting Interpreters: A Handbook for Making Programming Languages, B. Nystrom](http://www.craftinginterpreters.com/).
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
     + Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
   * [Create Your Own Programming Language](http://createyourproglang.com/).
     + Discussions: [HN](https://news.ycombinator.com/item?id=813133).
-  * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - A comprehensive treatement of Computer Systems including Compilers and Interpreters.
-  * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
-  * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - A book about computer construction from Nand Gates, through Assemblers, Compilers up to Operating Systems and Tetris game development.
   * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X).
   * [Essentials of Programming Languages, D. Friedman & M. Wand](https://www.amazon.com/dp/0262062798).
-  * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953) - A book about Instruction Level Parallelism (ILP) compilation techniques.
   * [Language Implementation Patterns, T. Parr](https://www.amazon.com/dp/193435645X).
-  * [Modern Compiler Implementation in C, A. Appel](https://www.cs.princeton.edu/~appel/modern/c/).
   * [Modern Compiler Implementation in ML, A. Appel](https://www.cs.princeton.edu/~appel/modern/ml/).
-  * [Modern Compiler Implementation in Java, A. Appel](https://www.cs.princeton.edu/~appel/modern/java/).
+    + Other editions: [MCI in C](https://www.cs.princeton.edu/~appel/modern/c/), [MCI in Java](https://www.cs.princeton.edu/~appel/modern/java/).
+  * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144).
+  * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/).
+    + [PDF](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
+  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
+  * [Project Oberon, N. Wirth & J. Gutknecht](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf).
+    + Other editions: [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
+  * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
+  * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
+
+#### Advanced
+
+  * [Advanced Compiler Design and Implementation, S. Muchnick](https://www.amazon.com/dp/1558603204).
+  * [Advanced Topics in Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162288).
+  * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
+  * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
+  * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953) - A book about Instruction Level Parallelism (ILP) compilation techniques.
   * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
   * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X) - A comprehensive overview of Parsing Techniques and Algorithms.
     + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
-  * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144).
-  * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/).
-    + [PDF Document](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
-  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
-  * Project Oberon, N. Wirth & J. Gutknecht - [1992 Edition](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf), [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
   * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf).
   * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091).
-  * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
-  * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
   * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
 
 ### Papers
