@@ -208,6 +208,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Interpreter, Compiler and JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/).
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
   * [LLVM Architecture](http://www.aosabook.org/en/llvm.html) - Chapter from the book Architecture of Open Source Applications.
+  * [LLVM for Graduate Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html) - Introduction to doing research with the LLVM compiler infrastructure.
   * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
   * [Rust Compiler Walk-Through](https://gchp.ie/2016/08/09/rust-compiler-walkthrough-introduction/).
   * [Rust's Incremental Compilation](https://blog.rust-lang.org/2016/09/08/incremental.html).
@@ -226,6 +227,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Kaleidoscope: Implementing a Language with LLVM in Objective Caml](http://llvm.org/docs/tutorial/index.html#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml).
   * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
   * [Lisperator](http://lisperator.net/pltut/) - How to implement a programming language in JavaScript.
+  * [LLVM Tutorial: Implementing Kaleidoscope](http://releases.llvm.org/3.6.2/docs/tutorial/LangImpl1.html).
+    + [Python version with LLVMPY](http://www.llvmpy.org/llvmpy-doc/dev/doc/kaleidoscope/index.html).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Project: A Programming Language](http://eloquentjavascript.net/11_language.html) - Chapter 11 from the book _Eloquent JavaScript_, 2nd Edition.
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
