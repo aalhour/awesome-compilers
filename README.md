@@ -222,6 +222,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
   * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
+  * [mal - Make a Lisp](https://github.com/kanaka/mal)
+  * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 
 ### Community Discussions
 
