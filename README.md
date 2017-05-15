@@ -400,6 +400,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Eli Bendersky](http://eli.thegreenplace.net/).
   * [John Regehr](https://blog.regehr.org/).
   * [Krister Walfridsson](https://kristerw.blogspot.com/).
+  * [Lambda The Ultimate](http://lambda-the-ultimate.org).
   * [LLVM Developers' Meetings](http://llvm.org/devmtg/).
   * [LLVM Weekly](http://llvmweekly.org/) - Weekly newsletter about LLVM.
 
