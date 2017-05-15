@@ -356,14 +356,15 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 ### Serious Projects
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
-  * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
-  * [Lua Programming Language](https://github.com/LuaDist/lua) - Official Lua Language interperter.
+  * [Chez Scheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [Lily's Interpreter](https://github.com/FascinatedBox/lily).
+  * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
-  * [Mirah Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
-  * [Nim Compiler](https://github.com/nim-lang/Nim).
-  * [Red Compiler](https://github.com/red/red).
-  * [TypeScript Compiler](https://github.com/Microsoft/TypeScript).
-  * [Wren Compiler](https://github.com/munificent/wren).
+  * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
+  * [Nim's Compiler](https://github.com/nim-lang/Nim).
+  * [Red's Compiler](https://github.com/red/red).
+  * [TypeScript's Compiler](https://github.com/Microsoft/TypeScript).
+  * [Wren's Compiler](https://github.com/munificent/wren).
 
 ### Educational and Toy Projects
 
