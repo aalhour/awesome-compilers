@@ -90,6 +90,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
   * [Design Concepts in Programming Languages, F. Turbak, D. Gifford, M. Sheldon](https://www.amazon.com/dp/0262201755) - also contains some introductory level material.
   * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953).
+  * [Linkers and Loaders](https://www.amazon.com/dp/1558604960).
   * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
   * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X).
     + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
