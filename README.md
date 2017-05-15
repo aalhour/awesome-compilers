@@ -224,6 +224,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/).
   * [Kaleidoscope: Implementing a Language with LLVM in Objective Caml](http://llvm.org/docs/tutorial/index.html#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml).
   * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
+  * [Lisperator](http://lisperator.net/pltut/) - How to implement a programming language in JavaScript.
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
   * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
