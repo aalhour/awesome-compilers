@@ -78,6 +78,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
   * [Project Oberon, N. Wirth & J. Gutknecht](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf).
     + Other editions: [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
+  * [The BEAM Book](https://github.com/happi/theBeamBook) - Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
 
