@@ -56,7 +56,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - Comprehensive treatement of Computer Systems including Compilers, Interpreters and Runtimes.
   * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - How to build a computer starting with Nand Logic Gates and then move to Machine Code, Assemblers, Compilers and Operating Systems.
   * [SICP, H. Abelson, G. Sussman](https://mitpress.mit.edu/sicp/full-text/book/book.html) - Structure and Interpretation of Computer Programs.
-  
+
 #### Introductory
 
   * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/).
@@ -87,10 +87,12 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Advanced Topics in Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162288).
   * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
   * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
+  * [Design Concepts in Programming Languages, F. Turbak, D. Gifford, M. Sheldon](https://www.amazon.com/dp/0262201755) - also contains some introductory level material.
   * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953).
   * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
   * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X).
     + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
+  * [The Garbage Collection Handbook: The Art of Automatic Memory Management, R. Jones, A. Hosking, E. Moss](https://www.amazon.com/dp/1420082795).
   * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf).
   * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091).
   * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
@@ -214,10 +216,12 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### Tutorials
 
   * [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/).
+  * [Algorithm W Step By Step](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.7733&rep=rep1&type=pdf).
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
   * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/).
+  * [Kaleidoscope: Implementing a Language with LLVM in Objective Caml](http://llvm.org/docs/tutorial/index.html#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml).
   * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
@@ -289,6 +293,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 ### C (as a Backend)
 
   * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection.
+  * [LCC](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler.
   * [libFirm](http://pp.ipd.kit.edu/firm/) - C-library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
   * [libJIT](https://www.gnu.org/software/libjit/) - Library for generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
   * [myJIT](http://myjit.sourceforge.net/) - Library for machine-code generation and execution at run-time.
@@ -301,7 +306,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [ILSpy](http://ilspy.net) - .NET Decompiler.
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - .NET Decompiler.
   * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - Assembly code editor which can be used as a plugin with other .NET/CLR tools.
-  
+
 ### D
 
   * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator.
@@ -373,6 +378,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 ## Runtimes and VMs
 
   * [CakeML](https://github.com/CakeML/cakeml).
+  * [Erlang BEAM](https://github.com/erlang/otp).
   * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
   * JVM Implementations:
     + [OpenJDK](http://openjdk.java.net/).
