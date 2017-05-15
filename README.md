@@ -88,11 +88,11 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
   * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
   * [Design Concepts in Programming Languages, F. Turbak, D. Gifford, M. Sheldon](https://www.amazon.com/dp/0262201755) - also contains some introductory level material.
-  * [The Garbage Collection Handbook: The Art of Automatic Memory Management, R. Jones, A. Hosking, E. Moss](https://www.amazon.com/dp/1420082795).
   * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953).
   * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
   * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X).
     + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
+  * [The Garbage Collection Handbook: The Art of Automatic Memory Management, R. Jones, A. Hosking, E. Moss](https://www.amazon.com/dp/1420082795).
   * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf).
   * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091).
   * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
@@ -377,8 +377,8 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Runtimes and VMs
 
-  * [Erlang BEAM](https://github.com/erlang/otp).
   * [CakeML](https://github.com/CakeML/cakeml).
+  * [Erlang BEAM](https://github.com/erlang/otp).
   * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
   * JVM Implementations:
     + [OpenJDK](http://openjdk.java.net/).
