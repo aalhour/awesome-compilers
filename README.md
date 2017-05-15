@@ -357,6 +357,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [Chez Scheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
   * [Lily's Interpreter](https://github.com/FascinatedBox/lily).
   * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
