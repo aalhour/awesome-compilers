@@ -23,9 +23,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Articles](#articles)
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
-  * [Projects](#projects)
-    + [Production-Ready](#production-ready)
-    + [Educational and Toys](#educational-and-toys)
   * [Tools and Frameworks](#tools-and-frameworks)
      + [Language Agnostic](#language-agnostic)
      + [C (as a Backend)](#c-as-a-backend)
@@ -39,6 +36,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
      + [Python](#python)
        * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools)
      + [Rust](#rust)
+  * [Compilers and Interpreters](#compilers-and-interpreters)
+    + [Serious Projects](#serious-projects)
+    + [Educational and Toy Projects](#educational-and-toy-projects)
   * [Runtimes and VMs](#runtimes-and-vms)
   * [Blogs](#blogs)
   * [Communities](#communities)
@@ -250,40 +250,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [What are the latest research trends in Compilers and PLs](https://www.quora.com/What-are-the-latest-research-trends-in-compilers-and-programming-languages).
 
 
-## Projects
-
-_This section aims at listing code projects of Compilers, Interpreters, Translators, Runtimes, Virtual Machines and the like._
-
-### Production-Ready
-
-  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
-  * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
-  * [Lua Programming Language](https://github.com/LuaDist/lua) - Official Lua Language interperter.
-    + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
-  * [Mirah Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
-  * [Nim Compiler](https://github.com/nim-lang/Nim).
-  * [Red Language](https://github.com/red/red).
-  * [TypeScript Compiler](https://github.com/Microsoft/TypeScript).
-
-### Educational and Toys
-
-  * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
-    + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
-  * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
-  * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
-  * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
-    + Discussions: [Reddit](https://redd.it/46f8j4).
-  * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
-  * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
-  * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
-  * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
-  * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
-  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - Stack-machine simulator.
-  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
-    + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
-  * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
-
-
 ## Tools and Frameworks
 
 ### Language Agnostic
@@ -381,6 +347,42 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [PEG](https://github.com/kevinmehall/rust-peg) - PEG Parser Generator.
   * [Pest](https://github.com/pest-parser/pest) - PEG Parser Generator.
   * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
+
+
+## Compilers and Interpreters
+
+_This section aims at listing code projects of Compilers, Interpreters, Translators, Runtimes, Virtual Machines and the like._
+
+### Serious Projects
+
+  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
+  * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [Lua Programming Language](https://github.com/LuaDist/lua) - Official Lua Language interperter.
+    + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
+  * [Mirah Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
+  * [Nim Compiler](https://github.com/nim-lang/Nim).
+  * [Red Compiler](https://github.com/red/red).
+  * [TypeScript Compiler](https://github.com/Microsoft/TypeScript).
+  * [Wren Compiler](https://github.com/munificent/wren).
+
+### Educational and Toy Projects
+
+  * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
+    + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
+  * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
+  * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
+  * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
+    + Discussions: [Reddit](https://redd.it/46f8j4).
+  * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
+  * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
+  * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
+  * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
+  * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
+  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - Stack-machine simulator.
+  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
+    + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
+  * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
+
 
 ## Runtimes and VMs
 
