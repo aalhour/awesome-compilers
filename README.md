@@ -376,7 +376,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
   * JVM Implementations:
     + [OpenJDK](http://openjdk.java.net/).
-    + [Kaffee](https://github.com/kaffe/kaffe).
+    + [Kaffe](https://github.com/kaffe/kaffe).
     + [JamVM](http://jamvm.sourceforge.net) - [GitHub project mirror](https://github.com/cfriedt/jamvm).
     + [Apache Harmony](https://harmony.apache.org/).
     + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
