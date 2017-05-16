@@ -396,6 +396,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Erlang BEAM](https://github.com/erlang/otp).
   * [HHVM](https://github.com/facebook/hhvm) - Facebook's Open Source VM for running Hack and PHP programs.
   * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
+  * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
   * JVM Implementations:
     + [OpenJDK](http://openjdk.java.net/).
     + [Kaffe](https://github.com/kaffe/kaffe).
