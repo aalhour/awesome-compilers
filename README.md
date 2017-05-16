@@ -379,6 +379,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + Discussions: [Reddit](https://redd.it/46f8j4).
   * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
   * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
+  * [MunVM](https://github.com/MunVM/MunVM) - Lua VM & Compiler in C.
   * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
@@ -386,7 +387,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
   * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
-  * [MunVM](https://github.com/MunVM/MunVM) - Lua VM & Compiler in C.
 
 
 ## Runtimes and VMs
