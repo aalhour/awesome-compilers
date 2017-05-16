@@ -364,6 +364,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
   * [Nim's Compiler](https://github.com/nim-lang/Nim).
   * [Red's Compiler](https://github.com/red/red).
+  * [Roslyn](https://github.com/dotnet/roslyn) - The .NET "Roslyn" Compiler Platform.
   * [TypeScript's Compiler](https://github.com/Microsoft/TypeScript).
   * [Wren's Compiler](https://github.com/munificent/wren).
 
@@ -372,6 +373,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
     + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
   * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
+  * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
   * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
   * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
@@ -389,7 +391,9 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 ## Runtimes and VMs
 
   * [CakeML](https://github.com/CakeML/cakeml).
+  * [CoreCLR](https://github.com/dotnet/coreclr) - The .NET's Common Language Runtime.
   * [Erlang BEAM](https://github.com/erlang/otp).
+  * [HHVM](https://github.com/facebook/hhvm) - Facebook's Open Source VM for running Hack and PHP programs.
   * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
   * JVM Implementations:
     + [OpenJDK](http://openjdk.java.net/).
