@@ -23,9 +23,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Articles](#articles)
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
-  * [Projects](#projects)
-    + [Production-Ready](#production-ready)
-    + [Educational and Toys](#educational-and-toys)
   * [Tools and Frameworks](#tools-and-frameworks)
      + [Language Agnostic](#language-agnostic)
      + [C (as a Backend)](#c-as-a-backend)
@@ -39,6 +36,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
      + [Python](#python)
        * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools)
      + [Rust](#rust)
+  * [Compilers and Interpreters](#compilers-and-interpreters)
+    + [Serious Projects](#serious-projects)
+    + [Educational and Toy Projects](#educational-and-toy-projects)
   * [Runtimes and VMs](#runtimes-and-vms)
   * [Blogs](#blogs)
   * [Communities](#communities)
@@ -78,6 +78,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
   * [Project Oberon, N. Wirth & J. Gutknecht](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf).
     + Other editions: [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
+  * [The BEAM Book](https://github.com/happi/theBeamBook) - Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
 
@@ -89,6 +90,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
   * [Design Concepts in Programming Languages, F. Turbak, D. Gifford, M. Sheldon](https://www.amazon.com/dp/0262201755) - also contains some introductory level material.
   * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953).
+  * [Linkers and Loaders](https://www.amazon.com/dp/1558604960).
   * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
   * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X).
     + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
@@ -206,6 +208,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Interpreter, Compiler and JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/).
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
   * [LLVM Architecture](http://www.aosabook.org/en/llvm.html) - Chapter from the book Architecture of Open Source Applications.
+  * [LLVM for Graduate Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html) - Introduction to doing research with the LLVM compiler infrastructure.
   * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
   * [Rust Compiler Walk-Through](https://gchp.ie/2016/08/09/rust-compiler-walkthrough-introduction/).
   * [Rust's Incremental Compilation](https://blog.rust-lang.org/2016/09/08/incremental.html).
@@ -223,7 +226,11 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/).
   * [Kaleidoscope: Implementing a Language with LLVM in Objective Caml](http://llvm.org/docs/tutorial/index.html#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml).
   * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
+  * [Lisperator](http://lisperator.net/pltut/) - How to implement a programming language in JavaScript.
+  * [LLVM Tutorial: Implementing Kaleidoscope](http://releases.llvm.org/3.6.2/docs/tutorial/LangImpl1.html).
+    + [Python version with LLVMPY](http://www.llvmpy.org/llvmpy-doc/dev/doc/kaleidoscope/index.html).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
+  * [Project: A Programming Language](http://eloquentjavascript.net/11_language.html) - Chapter 11 from the book _Eloquent JavaScript_, 2nd Edition.
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
   * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
 
@@ -241,40 +248,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Resources for Amatuer Compilers Writers](https://redd.it/4u15t1).
   * [What are the good open source implementations of Java Virtual Machine?](http://stackoverflow.com/questions/1621899/what-are-the-good-open-source-implementations-of-java-virtual-machine).
   * [What are the latest research trends in Compilers and PLs](https://www.quora.com/What-are-the-latest-research-trends-in-compilers-and-programming-languages).
-
-
-## Projects
-
-_This section aims at listing code projects of Compilers, Interpreters, Translators, Runtimes, Virtual Machines and the like._
-
-### Production-Ready
-
-  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
-  * [Chez Scheme Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
-  * [Lua Programming Language](https://github.com/LuaDist/lua) - Official Lua Language interperter.
-    + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
-  * [Mirah Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
-  * [Nim Compiler](https://github.com/nim-lang/Nim).
-  * [Red Language](https://github.com/red/red).
-  * [TypeScript Compiler](https://github.com/Microsoft/TypeScript).
-
-### Educational and Toys
-
-  * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
-    + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
-  * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
-  * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
-  * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
-    + Discussions: [Reddit](https://redd.it/46f8j4).
-  * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
-  * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
-  * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
-  * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
-  * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
-  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - Stack-machine simulator.
-  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
-    + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
-  * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
 
 
 ## Tools and Frameworks
@@ -375,14 +348,56 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Pest](https://github.com/pest-parser/pest) - PEG Parser Generator.
   * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
 
+
+## Compilers and Interpreters
+
+_This section aims at listing code projects of Compilers, Interpreters, Translators, Runtimes, Virtual Machines and the like._
+
+### Serious Projects
+
+  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
+  * [Chez Scheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
+  * [Lily's Interpreter](https://github.com/FascinatedBox/lily).
+  * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
+    + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
+  * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
+  * [Nim's Compiler](https://github.com/nim-lang/Nim).
+  * [Red's Compiler](https://github.com/red/red).
+  * [Roslyn](https://github.com/dotnet/roslyn) - The .NET "Roslyn" Compiler Platform.
+  * [TypeScript's Compiler](https://github.com/Microsoft/TypeScript).
+  * [Wren's Compiler](https://github.com/munificent/wren).
+
+### Educational and Toy Projects
+
+  * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
+    + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
+  * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
+  * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
+  * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
+  * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
+    + Discussions: [Reddit](https://redd.it/46f8j4).
+  * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
+  * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
+  * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
+  * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
+  * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
+  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - Stack-machine simulator.
+  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
+    + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
+  * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
+
+
 ## Runtimes and VMs
 
   * [CakeML](https://github.com/CakeML/cakeml).
+  * [CoreCLR](https://github.com/dotnet/coreclr) - The .NET's Common Language Runtime.
   * [Erlang BEAM](https://github.com/erlang/otp).
+  * [HHVM](https://github.com/facebook/hhvm) - Facebook's Open Source VM for running Hack and PHP programs.
   * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
   * JVM Implementations:
     + [OpenJDK](http://openjdk.java.net/).
-    + [Kaffee](https://github.com/kaffe/kaffe).
+    + [Kaffe](https://github.com/kaffe/kaffe).
     + [JamVM](http://jamvm.sourceforge.net) - [GitHub project mirror](https://github.com/cfriedt/jamvm).
     + [Apache Harmony](https://harmony.apache.org/).
     + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
@@ -393,6 +408,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Eli Bendersky](http://eli.thegreenplace.net/).
   * [John Regehr](https://blog.regehr.org/).
   * [Krister Walfridsson](https://kristerw.blogspot.com/).
+  * [Lambda The Ultimate](http://lambda-the-ultimate.org).
   * [LLVM Developers' Meetings](http://llvm.org/devmtg/).
   * [LLVM Weekly](http://llvmweekly.org/) - Weekly newsletter about LLVM.
 
