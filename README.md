@@ -24,18 +24,19 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
   * [Tools and Frameworks](#tools-and-frameworks)
-     + [Language Agnostic](#language-agnostic)
-     + [C (as a Backend)](#c-as-a-backend)
-     + [CLR](#clr)
-     + [D](#d)
-     + [Graal](#graal)
-     + [Haskell](#haskell)
-     + [JavaScript](#javascript)
-     + [JVM](#jvm)
-     + [Kotlin](#kotlin)
-     + [Python](#python)
-       * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools)
-     + [Rust](#rust)
+    + [Language Agnostic](#language-agnostic)
+    + [C (as a Backend)](#c-as-a-backend)
+    + [CLR](#clr)
+    + [D](#d)
+    + [Go](#go)
+    + [Graal](#graal)
+    + [Haskell](#haskell)
+    + [JavaScript](#javascript)
+    + [JVM](#jvm)
+    + [Kotlin](#kotlin)
+    + [Python](#python)
+      * [Lists of Python Parsing Tools](#lists-of-python-parsing-tools)
+    + [Rust](#rust)
   * [Compilers and Interpreters](#compilers-and-interpreters)
     + [Serious Projects](#serious-projects)
     + [Educational and Toy Projects](#educational-and-toy-projects)
@@ -294,6 +295,11 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [llvm-d](https://github.com/Calrama/llvm-d) - D bindings for LLVM.
   * [Pegged](https://github.com/PhilippeSigaud/Pegged) - design, test and generate parsers for PEG grammars.
 
+### Go
+
+  * [goyacc](https://godoc.org/golang.org/x/tools/cmd/goyacc) - YACC Implementation in Go. Standard LALR(1) parser generator.
+  * [LLVM Go binding](https://godoc.org/llvm.org/llvm/bindings/go/llvm) - Official Go LLVM binding.
+
 ### Graal
 
   * [Graal](https://github.com/graalvm/graal) - High-Performance Polyglot Runtime.
@@ -382,8 +388,10 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
   * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
+  * [gocaml](https://github.com/rhysd/gocaml) - Minimal functional programming language implementation in Go and LLVM.
   * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
+  * [llgo](https://github.com/llvm-mirror/llgo) - Go frontend for LLVM written in Go.
   * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
   * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
   * [MunVM](https://github.com/MunVM/MunVM) - Lua VM & Compiler in C.
