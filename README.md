@@ -56,7 +56,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - Comprehensive treatement of Computer Systems including Compilers, Interpreters and Runtimes.
   * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - How to build a computer starting with Nand Logic Gates and then move to Machine Code, Assemblers, Compilers and Operating Systems.
-  * [SICP, H. Abelson, G. Sussman](https://sarabander.github.io/sicp/) - Structure and Interpretation of Computer Programs.
+  * [SICP, H. Abelson, G. Sussman](https://mitpress.mit.edu/sicp/full-text/book/book.html) - Structure and Interpretation of Computer Programs.
+    + Other editions: [HTML5/EPUB version](https://sarabander.github.io/sicp/).
 
 #### Introductory
 
