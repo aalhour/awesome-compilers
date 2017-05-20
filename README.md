@@ -372,18 +372,21 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 ### Serious Projects
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
-  * [Chez Scheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
+  * [Frege's Compiler](https://github.com/Frege/frege) - JVM-based Compiler for the Frege Programming Language.
   * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
   * [Lily's Interpreter](https://github.com/FascinatedBox/lily).
   * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
-  * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for Mirah Language.
+  * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for the Mirah Programming Language.
   * [Nim's Compiler](https://github.com/nim-lang/Nim).
   * [P Lang](https://github.com/p-org/P) - The P Programming Language Runtime.
   * [Red's Compiler](https://github.com/red/red).
   * [Roslyn](https://github.com/dotnet/roslyn) - The .NET "Roslyn" Compiler Platform.
   * [TypeScript's Compiler](https://github.com/Microsoft/TypeScript).
   * [Wren's Compiler](https://github.com/munificent/wren).
+  * [Zig's Compiler](https://github.com/zig-lang/zig) - Zig Language Compiler.
 
 ### Educational and Toy Projects
 
