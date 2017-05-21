@@ -63,8 +63,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/).
   * [Beautiful Racket - How to Make Your Own PL with Racket, M. But­t­er­ick](http://beautifulracket.com).
-  * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Learn C and build your own Lisp programming language in 1000 lines of code.
-  * [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/dp/0321486811) - The Dragons Book (2nd Edition).
+  * [Build Your Own Lisp, D. Holden](http://www.buildyourownlisp.com) - Learn C and build your own Lisp programming language in 1000 lines of code.
+  * [Compilers: Principles, Techniques, and Tools, A. Aho, M. Lam, R. Sethi, J. Ullman](https://www.amazon.com/dp/0321486811) - The Dragons Book (2nd Edition).
   * [Crafting Interpreters: A Handbook for Making Programming Languages, B. Nystrom](http://www.craftinginterpreters.com/).
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
     + Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
