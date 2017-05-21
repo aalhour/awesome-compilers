@@ -412,6 +412,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
   * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
+  * [tisp](https://github.com/raviqqe/tisp) - "Time is Space" Programming Language Interpreter.
 
 
 ## Runtimes and VMs
