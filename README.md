@@ -239,12 +239,17 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Kaleidoscope: Implementing a Language with LLVM in Objective Caml](http://llvm.org/docs/tutorial/index.html#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml).
   * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
   * [Lisperator](http://lisperator.net/pltut/) - How to implement a programming language in JavaScript.
+  * [Little Lisp Interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter) - Interpreter that supports function invocation, lambdas, lets, ifs, numbers, strings, a few library functions, and lists in under 120 lines of JavaScript.
+    + [GitHub Repository](https://github.com/maryrosecook/littlelisp).
+  * [`lis.py`, v1: (How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) - Tutorial by Peter Norvig on writing a simple Lisp interpreter.
+  * [`lis.py`, v2: An ((Even Better) Lisp) Interpreter (in Python)](http://norvig.com/lispy2.html) - Follow-up tutorial by Peter Norvig on making `lis.py` slightly better.
   * [LLVM Tutorial: Implementing Kaleidoscope](http://releases.llvm.org/3.6.2/docs/tutorial/LangImpl1.html).
     + [Python version with LLVMPY](http://www.llvmpy.org/llvmpy-doc/dev/doc/kaleidoscope/index.html).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Project: A Programming Language](http://eloquentjavascript.net/11_language.html) - Chapter 11 from the book _Eloquent JavaScript_, 2nd Edition.
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
   * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
+
 
 ### Community Discussions
 
