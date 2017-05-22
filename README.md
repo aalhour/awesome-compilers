@@ -61,18 +61,18 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 #### Introductory
 
-  * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/).
-  * [Beautiful Racket - How to Make Your Own PL with Racket, M. But­t­er­ick](http://beautifulracket.com).
+  * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/) - Short and concise book on the basic concepts behind Compiler Design.
+  * [Beautiful Racket, M. But­t­er­ick](http://beautifulracket.com) - How to make your own Programming Language with Racket.
   * [Build Your Own Lisp, D. Holden](http://www.buildyourownlisp.com) - Learn C and build your own Lisp programming language in 1000 lines of code.
-  * [Compilers: Principles, Techniques, and Tools, A. Aho, M. Lam, R. Sethi, J. Ullman](https://www.amazon.com/dp/0321486811) - The Dragons Book (2nd Edition).
-  * [Crafting Interpreters: A Handbook for Making Programming Languages, B. Nystrom](http://www.craftinginterpreters.com/).
+  * [Compilers: Principles, Techniques, and Tools, A. Aho, M. Lam, R. Sethi, J. Ullman](https://www.amazon.com/dp/0321486811) - The infamous Dragons Book, a classic textbook on Compiler Construction.
+  * [Crafting Interpreters, B. Nystrom](http://www.craftinginterpreters.com/) - Everything you need to learn to build an interpreted, full-featured, efficient scripting language.
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
     + Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
-  * [Create Your Own Programming Language](http://createyourproglang.com/).
+  * [Create Your Own Programming Language](http://createyourproglang.com/) - Very short book on building your own programming language with video tutorials and source code projects for 3 example programming languages.
     + Discussions: [HN](https://news.ycombinator.com/item?id=813133).
-  * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X).
-  * [Essentials of Programming Languages, D. Friedman & M. Wand](https://www.amazon.com/dp/0262062798).
-  * [Language Implementation Patterns, T. Parr](https://www.amazon.com/dp/193435645X).
+  * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X) - Modern comprehensive textbook on Compilers Construction. It covers SSA Form and recent research on Machine Code Generation.
+  * [Essentials of Programming Languages, D. Friedman & M. Wand](https://www.amazon.com/dp/0262062798) - Fundamental concepts of programming languages with a focus on Semantics, Interpretation and CPS (Continuation Passing Style).
+  * [Language Implementation Patterns, T. Parr](https://www.amazon.com/dp/193435645X) - Learn the patterns behind building programming languages and build an interpreter yourself, using ANTLR.
   * [Modern Compiler Implementation in ML, A. Appel](https://www.cs.princeton.edu/~appel/modern/ml/).
     + Other editions: [MCI in C](https://www.cs.princeton.edu/~appel/modern/c/), [MCI in Java](https://www.cs.princeton.edu/~appel/modern/java/).
   * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144).
