@@ -143,6 +143,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [C. Bolz’s Research Publications](https://scholar.google.com/citations?user=S0rpYpkAAAAJ).
   * [Compilers Lab at Saarland University](http://compilers.cs.uni-saarland.de).
+  * [Kenichi Asai](http://pllab.is.ocha.ac.jp/%7Easai/papers/).
   * [Packrat Parsing (PEG) Papers and Resources](http://bford.info/packrat/).
 
 ### Specifications
@@ -193,6 +194,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [MetaScala: A Tiny DIY JVM](https://skillsmatter.com/skillscasts/4916-metascala-a-tiny-diy-jvm) - Metascala is a tiny metacircular Java Virtual Machine (JVM) written in the Scala programming language.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
   * [One VM to Rule Them All, One VM to Bind Them](https://www.youtube.com/watch?v=FJY96_6Y3a4) - Tutorial on the Truffel technology.
+  * [Programming Should Eat Itself](https://www.youtube.com/watch?v=SrKj4hYic5A) - StrangeLoop Talk on Reflective Programming and Kenichi Asai's Black Programming Language.
   * [Python, Linkers and Virtual Memory - PYCON US](https://www.youtube.com/watch?v=twQKAoq2OPE).
   * [Reverse Engineering the MOS 6502 CPU](https://youtube.com/watch?v=fWqBmmPQP40).
   * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - Introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
