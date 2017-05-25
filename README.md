@@ -26,7 +26,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Tools and Frameworks](#tools-and-frameworks)
     + [Language Agnostic](#language-agnostic)
     + [C (as a Backend)](#c-as-a-backend)
-    + [C++](C).
+    + [C++](#c)
     + [CLR](#clr)
     + [D](#d)
     + [Go](#go)
