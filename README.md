@@ -26,6 +26,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Tools and Frameworks](#tools-and-frameworks)
     + [Language Agnostic](#language-agnostic)
     + [C (as a Backend)](#c-as-a-backend)
+    + [C++](C).
     + [CLR](#clr)
     + [D](#d)
     + [Go](#go)
@@ -295,6 +296,10 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [myJIT](http://myjit.sourceforge.net/) - Library for machine-code generation and execution at run-time.
   * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler.
   * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler.
+
+### C++
+  
+  * [AsmJIT](https://github.com/asmjit/asmjit) - Complete x86/x64 JIT and Remote Assembler for C++.
 
 ### CLR
 
