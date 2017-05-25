@@ -195,6 +195,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Reverse Engineering the MOS 6502 CPU](https://youtube.com/watch?v=fWqBmmPQP40).
   * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - Introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
   * [The JVM (Java Virtual Machine) Architecture](https://www.youtube.com/watch?v=ZBJ0u9MaKtM).
+  * [The Most Beautiful Program Ever Written](https://www.youtube.com/watch?v=OyfBQmvr2Hc) - William Byrd on a Lisp interpreter written in 15 lines of Lisp.
   * [The MoVfuscator: turning mov into a soul crushing RE nightmare](https://www.youtube.com/watch?v=R7EEoWg6Ekk).
     + Discussions: [HN](https://news.ycombinator.com/item?id=9751312), [Reddit](https://redd.it/4zl8mh).
   * The SSA Form - Video Lectures from NPTEL's Compilers Course (see: [Courses](#courses) for more info):
