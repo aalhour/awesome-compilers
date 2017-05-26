@@ -25,8 +25,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Community Discussions](#community-discussions)
   * [Tools and Frameworks](#tools-and-frameworks)
     + [Language Agnostic](#language-agnostic)
-    + [C (as a Backend)](#c-as-a-backend)
-    + [C++](#c)
+    + [C / C++](#c-c)
     + [CLR](#clr)
     + [D](#d)
     + [Go](#go)
@@ -287,19 +286,16 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Rubinius](https://github.com/rubinius/rubinius) - Programming Languages Development Platform.
   * [Summus](https://github.com/igor84/summus) - Basic, reusable, compiler-frontend implementation using LLVM as a backend.
 
-### C (as a Backend)
+### C / C++
 
-  * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection.
-  * [LCC](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler.
+  * [AsmJIT](https://github.com/asmjit/asmjit) - Complete x86/x64 JIT and Remote Assembler for C++.
+  * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection (C as a Backend).
+  * [LCC](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler (C as a Backend).
   * [libFirm](http://pp.ipd.kit.edu/firm/) - C-library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
   * [libJIT](https://www.gnu.org/software/libjit/) - Library for generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
   * [myJIT](http://myjit.sourceforge.net/) - Library for machine-code generation and execution at run-time.
-  * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler.
-  * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler.
-
-### C++
-  
-  * [AsmJIT](https://github.com/asmjit/asmjit) - Complete x86/x64 JIT and Remote Assembler for C++.
+  * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler (C as a Backend).
+  * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler (C as a Backend).
 
 ### CLR
 
