@@ -25,7 +25,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Community Discussions](#community-discussions)
   * [Tools and Frameworks](#tools-and-frameworks)
     + [Language Agnostic](#language-agnostic)
-    + [C / C++](#c-c)
+    + [C / C++](#c--c)
     + [CLR](#clr)
     + [D](#d)
     + [Go](#go)
