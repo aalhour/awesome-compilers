@@ -278,6 +278,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### Language Agnostic
 
   * [B3: The Bare Bones Backend](https://webkit.org/docs/b3/) - WebKit's optimizing JIT Compiler for procedures containing C-like code.
+  * [Keystone Assembler Framework](https://github.com/keystone-engine/keystone) - Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.
   * [LLILCL](https://github.com/dotnet/llilc) - LLVM-based Compiler Backend for .NET Core.
   * [LLVM](http://llvm.org/) - The LLVM Compiler-Backend Framework.
   * [MicroVM](http://microvm.github.io/) - The "Mu" Framewrok for Programming Languages development based on the MuVM Specification.
