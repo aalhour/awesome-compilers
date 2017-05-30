@@ -85,8 +85,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
   * [Writing an Interpreter in Go, T. Ball](https://interpreterbook.com/).
-  * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering/dp/0470177071).
-    + Other editions: [Writing Compilers and Interpreters: An Applied Approach Using C++](https://www.amazon.com/Writing-Compilers-Interpreters-Ronald-Mak/dp/0471113530/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0471113530&pd_rd_r=B6GV91KRWBKTNQ13D3G8&pd_rd_w=3Xbmd&pd_rd_wg=120tO&psc=1&refRID=B6GV91KRWBKTNQ13D3G8), [Writing Compilers and Interpreters: An Applied Approach Using C](https://www.amazon.com/Writing-Compilers-Interpreters-Applied-Approach/dp/0471555800/ref=sr_1_fkmr0_4?s=books&ie=UTF8&qid=1496157877&sr=1-4-fkmr0&keywords=Writing+Compilers+and+Interpreters+c).
+  * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/dp/0470177071).
+    + Other editions: [Writing Compilers and Interpreters: An Applied Approach Using C++](https://www.amazon.com/dp/0471113530), [Writing Compilers and Interpreters: An Applied Approach Using C](https://www.amazon.com/dp/0471555800).
 
 
 #### Advanced
