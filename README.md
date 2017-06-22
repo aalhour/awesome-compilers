@@ -469,6 +469,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Verticals
 
+  * [68 Resources for Creating Programming Languages](https://tomassetti.me/resources-create-programming-languages/).
   * [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis).
   * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
