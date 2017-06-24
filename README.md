@@ -243,6 +243,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [A Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html) - Tutorial for helping C & C++ programmers understand the essentials of what the linker does.
   * [Algorithm W Step By Step](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.7733&rep=rep1&type=pdf).
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
+  * [Hindley-Damas-Milner Tutorial](https://github.com/quchen/articles/tree/master/hindley-milner) - Extensively documented walkthrough for typechecking a basic functional language using the Hindley-Damas-Milner algorithm.
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
   * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/).
