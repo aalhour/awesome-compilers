@@ -415,6 +415,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
     + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
   * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
+  * [Charly](https://github.com/charly-lang/charly) - Interpreter for a dynamically typed language written in Crystal.
   * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
   * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
