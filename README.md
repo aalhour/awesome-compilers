@@ -396,6 +396,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
   * [Frege's Compiler](https://github.com/Frege/frege) - JVM-based Compiler for the Frege Programming Language.
   * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
+  * [HHVM](https://github.com/facebook/hhvm) - Virtual Machine for running programs written in Hack and PHP.
   * [Lily's Interpreter](https://github.com/FascinatedBox/lily).
   * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
