@@ -292,7 +292,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [QBE: The Quick Backend](http://c9x.me/compile/) - Pure C embeddable SSA-based compiler backend.
   * [Rubinius](https://github.com/rubinius/rubinius) - Programming Languages Development Platform.
   * [Summus](https://github.com/igor84/summus) - Basic, reusable, compiler-frontend implementation using LLVM as a backend.
-  * [ZetaVM](https://github.com/zetavm/zetavm) - Multi-Language Platform for Dynamic Programming Languages 
+  * [ZetaVM](https://github.com/zetavm/zetavm) - Multi-Language Platform for Dynamic Programming Languages.
 
 ### C / C++
 
