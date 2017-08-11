@@ -344,6 +344,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - Context-free grammar parser generator for JavaScript.
   * [PEG.js](https://pegjs.org) - Simple parser generator for JavaScript.
+  * [Ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
+  * [Nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
 
 ### JVM
 
