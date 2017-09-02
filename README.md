@@ -292,6 +292,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [QBE: The Quick Backend](http://c9x.me/compile/) - Pure C embeddable SSA-based compiler backend.
   * [Rubinius](https://github.com/rubinius/rubinius) - Programming Languages Development Platform.
   * [Summus](https://github.com/igor84/summus) - Basic, reusable, compiler-frontend implementation using LLVM as a backend.
+  * [ZetaVM](https://github.com/zetavm/zetavm) - Multi-Language Platform for Dynamic Programming Languages.
 
 ### C / C++
 
@@ -383,7 +384,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [PEG](https://github.com/kevinmehall/rust-peg) - PEG Parser Generator.
   * [Pest](https://github.com/pest-parser/pest) - PEG Parser Generator.
   * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
-
 
 ## Compilers and Interpreters
 
