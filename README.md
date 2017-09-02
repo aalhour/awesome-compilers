@@ -347,7 +347,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
   * [PEG.js](https://pegjs.org) - Simple parser generator for JavaScript.
 
-
 ### JVM
 
   * [ANTLR](http://www.antlr.org) - Parser generator for reading, processing, executing, or translating structured text or binary files.
