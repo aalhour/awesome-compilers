@@ -344,6 +344,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [IRHudra](http://mrale.ph/irhydra/2/) - Tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - Context-free grammar parser generator for JavaScript.
+  * [Nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
+  * [Ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
   * [PEG.js](https://pegjs.org) - Simple parser generator for JavaScript.
 
 ### JVM
