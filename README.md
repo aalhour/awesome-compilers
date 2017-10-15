@@ -1,4 +1,4 @@
-# ![AWESOME COMPILERS](img/awesome-compilers.png)
+﻿# ![AWESOME COMPILERS](img/awesome-compilers.png)
 
 A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
 
@@ -303,6 +303,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [libFirm](http://pp.ipd.kit.edu/firm/) - C-library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
   * [libJIT](https://www.gnu.org/software/libjit/) - Library for generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
   * [myJIT](http://myjit.sourceforge.net/) - Library for machine-code generation and execution at run-time.
+  * [OrangeC](http://github.com/LADSoft/OrangeC) - Win32 C11/C++2014 compiler and toolchain.
   * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler (C as a Backend).
   * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler (C as a Backend).
 
@@ -408,6 +409,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [P Lang](https://github.com/p-org/P) - The P Programming Language Runtime.
   * [Red's Compiler](https://github.com/red/red).
   * [Roslyn](https://github.com/dotnet/roslyn) - The .NET "Roslyn" Compiler Platform.
+  * [Simple-MSIL-Compiler](https://github.com/LADSoft/Simple-MSIL-Compiler) C compiler that compiles to CLR.
   * [TypeScript's Compiler](https://github.com/Microsoft/TypeScript).
   * [Wren's Compiler](https://github.com/munificent/wren).
   * [Zig's Compiler](https://github.com/zig-lang/zig) - Zig Language Compiler.
