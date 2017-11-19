@@ -1,4 +1,4 @@
-﻿# ![AWESOME COMPILERS](img/awesome-compilers.png)
+# ![AWESOME COMPILERS](img/awesome-compilers.png)
 
 A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
 
@@ -310,6 +310,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### CLR
 
   * [Cecil](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) - Library to generate and inspect programs and libraries in the ECMA CIL format.
+  * [DotNetPELib](https://github.com/LADSoft/DotNetPELib) - Library to read and write .net assemblies in C++11
   * [ILSpy](http://ilspy.net) - .NET Decompiler.
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - .NET Decompiler.
   * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - Assembly code editor which can be used as a plugin with other .NET/CLR tools.
@@ -397,6 +398,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) - Elena programming language.
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
   * [Frege's Compiler](https://github.com/Frege/frege) - JVM-based Compiler for the Frege Programming Language.
   * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
