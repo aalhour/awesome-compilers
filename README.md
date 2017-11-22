@@ -418,6 +418,8 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### Educational and Toy Projects
 
+  * [amacc](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable for Arm architecture.
+    + Discussions: [HN](https://news.ycombinator.com/item?id=11411124).
   * [Black](http://www.is.ocha.ac.jp/~asai/Black/) - Scheme interpreter for the Reflective Programming Language "Black", by Kenichi Asai's.
     + Other sources: [GitHub Mirror](https://github.com/readevalprintlove/black).
   * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
