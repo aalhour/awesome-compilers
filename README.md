@@ -358,6 +358,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [CGLIB](https://github.com/cglib/cglib) - High level API library for generating and transforming Java Byte Code.
   * [FCP JVM](http://wiki.freepascal.org/FPC_JVM) - JVM Backend for generating Java Byte Code that conforms to the JDK v1.5+ Specification and the Dalvik VM.
   * [JavaCC](https://javacc.org) - Java Compiler Construction and Parser Generator Toolkit.
+  * [JavaCPP Presets for LLVM](https://github.com/bytedeco/javacpp-presets/tree/master/llvm) - Library for easily interacting with the LLVM API.
   * [JFlex](http://www.jflex.de) - JFlex is a lexical analyzer generator for Java with full Unicode support.
   * [JLex](http://www.cs.princeton.edu/~appel/modern/java/JLex/) - JLex is a lexical analyzer generator, that can be used in combination with CUP.
 
