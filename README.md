@@ -439,6 +439,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
+  * [StackVM](https://github.com/KCreate/stackvm) - Virtual Machine with an integrated VRAM display.
   * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - Stack-machine simulator.
   * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
