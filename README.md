@@ -431,6 +431,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
   * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
   * [gocaml](https://github.com/rhysd/gocaml) - Minimal functional programming language implementation in Go and LLVM.
+  * [gone](https://github.com/paivett/gone) - Compiler for a tiny programming language called Gone, implemented using Python 3.6, SLY and llvmlite. Developed as part of the January 2018 [Write a compiler course](http://www.dabeaz.com/compiler.html), under the supervision of David Beazly.
   * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
   * [llgo](https://github.com/llvm-mirror/llgo) - Go frontend for LLVM written in Go.
