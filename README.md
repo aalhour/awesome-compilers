@@ -428,6 +428,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
   * [Charly](https://github.com/charly-lang/charly) - Interpreter for a dynamically typed language written in Crystal.
   * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
+  * [EasyLang](https://github.com/erhanbaris/EasyLang) - Easy Programming Language / VM.
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
   * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
   * [gocaml](https://github.com/rhysd/gocaml) - Minimal functional programming language implementation in Go and LLVM.
