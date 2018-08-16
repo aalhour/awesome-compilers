@@ -194,6 +194,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Building an Interpreter in RPython](https://www.youtube.com/watch?v=9tDpjzPLvNY).
   * [CPython - A Ten-Hour Codewalk](http://pgbovine.net/cpython-internals.htm).
   * [Exploring Python’s Bytecode](https://ep2016.europython.eu/media/conference/slides/exploring-python-bytecode.pdf).
+  * [How to Build a Virtual Machine](https://www.youtube.com/watch?v=OjaAToVkoTw) - Terence Parr gives an idea of the core mechanisms behind virtual machines by building one, in front of your eyes, from scratch. It is the same kind of commercial interpreter he made for Renault cars.
   * [Java AOT (Ahead of Time) Compilation](https://2016.javazone.no/program/java-aot-compilation).
   * [MetaScala: A Tiny DIY JVM](https://skillsmatter.com/skillscasts/4916-metascala-a-tiny-diy-jvm) - Metascala is a tiny metacircular Java Virtual Machine (JVM) written in the Scala programming language.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
