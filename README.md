@@ -306,6 +306,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [myJIT](http://myjit.sourceforge.net/) - Library for machine-code generation and execution at run-time.
   * [OrangeC](http://github.com/LADSoft/OrangeC) - Win32 C11/C++2014 compiler and toolchain.
   * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler (C as a Backend).
+  * [Ragel](http://www.colm.net/open-source/ragel/) - Ragel State Machine Compiler.
   * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler (C as a Backend).
 
 ### CLR
