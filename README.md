@@ -194,6 +194,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Building an Interpreter in RPython](https://www.youtube.com/watch?v=9tDpjzPLvNY).
   * [CPython - A Ten-Hour Codewalk](http://pgbovine.net/cpython-internals.htm).
   * [Exploring Python’s Bytecode](https://ep2016.europython.eu/media/conference/slides/exploring-python-bytecode.pdf).
+  * [How to Build a Virtual Machine](https://www.youtube.com/watch?v=OjaAToVkoTw) - Terence Parr gives an idea of the core mechanisms behind virtual machines by building one, in front of your eyes, from scratch. It is the same kind of commercial interpreter he made for Renault cars.
   * [Java AOT (Ahead of Time) Compilation](https://2016.javazone.no/program/java-aot-compilation).
   * [MetaScala: A Tiny DIY JVM](https://skillsmatter.com/skillscasts/4916-metascala-a-tiny-diy-jvm) - Metascala is a tiny metacircular Java Virtual Machine (JVM) written in the Scala programming language.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
@@ -305,6 +306,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [myJIT](http://myjit.sourceforge.net/) - Library for machine-code generation and execution at run-time.
   * [OrangeC](http://github.com/LADSoft/OrangeC) - Win32 C11/C++2014 compiler and toolchain.
   * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler (C as a Backend).
+  * [Ragel](http://www.colm.net/open-source/ragel/) - Ragel State Machine Compiler.
   * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler (C as a Backend).
 
 ### CLR
@@ -418,7 +420,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Zig's Compiler](https://github.com/zig-lang/zig) - Zig Language Compiler.
 
 ### Educational and Toy Projects
-
+  * [Akilang](https://github.com/syegulalp/Akilang) - A compiler for a simple language, built with Python and LLVM
   * [amacc](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable for Arm architecture.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11411124).
   * [Black](http://www.is.ocha.ac.jp/~asai/Black/) - Scheme interpreter for the Reflective Programming Language "Black", by Kenichi Asai's.
@@ -428,9 +430,11 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
   * [Charly](https://github.com/charly-lang/charly) - Interpreter for a dynamically typed language written in Crystal.
   * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
+  * [EasyLang](https://github.com/erhanbaris/EasyLang) - Easy Programming Language / VM.
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
   * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
   * [gocaml](https://github.com/rhysd/gocaml) - Minimal functional programming language implementation in Go and LLVM.
+  * [gone](https://github.com/paivett/gone) - Compiler for a tiny programming language called Gone, implemented using Python 3.6, SLY and llvmlite. Developed as part of the January 2018 [Write a compiler course](http://www.dabeaz.com/compiler.html), under the supervision of David Beazly.
   * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
   * [llgo](https://github.com/llvm-mirror/llgo) - Go frontend for LLVM written in Go.
@@ -439,6 +443,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
   * [MunVM](https://github.com/MunVM/MunVM) - Lua VM & Compiler in C.
   * [MY-BASIC](https://github.com/paladin-t/my_basic) - An embeddable BASIC dialect interpreter in C with modern paradigms.
+  * [oberonc](https://github.com/lboasso/oberonc) - A single pass, self-hosting compiler for the Oberon-07 programming language. It targets the JVM.
   * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
