@@ -451,9 +451,9 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - Stack-machine simulator.
   * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
-  * [Ultra Tiny Compiler](https://github.com/antonmedv/ultra-tiny-compiler) - Another tiny compiler in less then 90 lines of code.
   * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
   * [tisp](https://github.com/raviqqe/tisp) - "Time is Space" Programming Language Interpreter.
+  * [Ultra Tiny Compiler](https://github.com/antonmedv/ultra-tiny-compiler) - Another tiny compiler in less then 90 lines of code.
 
 
 ## Runtimes and VMs
