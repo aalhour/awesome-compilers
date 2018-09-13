@@ -454,6 +454,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
   * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
   * [tisp](https://github.com/raviqqe/tisp) - "Time is Space" Programming Language Interpreter.
+  * [Ultra Tiny Compiler](https://github.com/antonmedv/ultra-tiny-compiler) - Another tiny compiler in less then 90 lines of code.
 
 
 ## Runtimes and VMs
