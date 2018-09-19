@@ -84,6 +84,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [The BEAM Book](https://github.com/happi/theBeamBook) - Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
+  * [Writing a Compiler in Go, T. Ball](https://compilerbook.com/).
   * [Writing an Interpreter in Go, T. Ball](https://interpreterbook.com/).
   * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/dp/0470177071).
     + Other editions: [Writing Compilers and Interpreters: An Applied Approach Using C++](https://www.amazon.com/dp/0471113530), [Writing Compilers and Interpreters: An Applied Approach Using C](https://www.amazon.com/dp/0471555800).
