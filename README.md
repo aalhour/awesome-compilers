@@ -402,6 +402,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 ### Serious Projects
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
+  * [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
   * [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) - Elena programming language.
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
