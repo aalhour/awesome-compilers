@@ -84,6 +84,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [The BEAM Book](https://github.com/happi/theBeamBook) - Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
+  * [Writing a Compiler in Go, T. Ball](https://compilerbook.com/).
   * [Writing an Interpreter in Go, T. Ball](https://interpreterbook.com/).
   * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/dp/0470177071).
     + Other editions: [Writing Compilers and Interpreters: An Applied Approach Using C++](https://www.amazon.com/dp/0471113530), [Writing Compilers and Interpreters: An Applied Approach Using C](https://www.amazon.com/dp/0471555800).
@@ -349,6 +350,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [IRHudra](http://mrale.ph/irhydra/2/) - Tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - Context-free grammar parser generator for JavaScript.
+    + [GerHobbelt/jison](https://github.com/GerHobbelt/jison) - active fork of jison with bunch of improvements.  
   * [Nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
   * [Ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
   * [PEG.js](https://pegjs.org) - Simple parser generator for JavaScript.
@@ -400,6 +402,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 ### Serious Projects
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
+  * [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
   * [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) - Elena programming language.
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
@@ -438,7 +441,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
   * [llgo](https://github.com/llvm-mirror/llgo) - Go frontend for LLVM written in Go.
-  * [Mal's Interpreter](https://github.com/kanaka/mal) - Clojure-inspired Lisp interpreter implemented in 64 languages.
+  * [MAL](https://github.com/kanaka/mal): Make a Lisp - Clojure-inspired Lisp interpreter implemented in 64 languages.
   * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
   * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
   * [MunVM](https://github.com/MunVM/MunVM) - Lua VM & Compiler in C.
@@ -453,6 +456,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
   * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
   * [tisp](https://github.com/raviqqe/tisp) - "Time is Space" Programming Language Interpreter.
+  * [Ultra Tiny Compiler](https://github.com/antonmedv/ultra-tiny-compiler) - Another tiny compiler in less then 90 lines of code.
 
 
 ## Runtimes and VMs
