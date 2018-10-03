@@ -78,7 +78,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Programming Language Pragmatics](https://www.amazon.com/dp/0123745144) - Integrated treatement of language design and implementation, the examples feature famous architectures like ARM and x86 64-bit.
   * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) - Excellent introduction to the subject that uses an incremental approach to building programs. The mistakes are included too to highlight key concepts.
     + [PDF](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
-  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
+  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) - Collected lecture notes for the _Programming Languages_ course taught at Carnegie Mellon University, most suitable as an introductory text on the subject.
   * [Project Oberon](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf) - The design of an operating system and compiler.
     + Other editions: [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
   * [The BEAM Book](https://github.com/happi/theBeamBook) - Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.
