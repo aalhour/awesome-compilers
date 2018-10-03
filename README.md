@@ -88,6 +88,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [WaIGO](https://interpreterbook.com/) - _Write an Interpreter in Go_ - Successor of the "Write a Compiler in Go" book, but this one builds an interpreter project instead.
   * [WCI-SWE](https://www.amazon.com/dp/0470177071) - _Writing Compilers and Interpreters: A Software Engineering Approach_ - How to build Compilers using Java, this book is tailored for the working Software Engineer.
     + Other editions: [Using C++](https://www.amazon.com/dp/0471113530), [Using C](https://www.amazon.com/dp/0471555800).
+  * [WCIRPIP](https://www.amazon.de/gp/product/1977509207) - _Writing Interpreters and Compilers for the Raspberry Pi Using Python_ - If you want to learn how to write interpreters and compilers, and at the same time learn how Python, Python bytecode, assembly language, and dynamic typing work, this is the book for you.
 
 
 #### Advanced
