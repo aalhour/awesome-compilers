@@ -54,60 +54,62 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 #### General Overview
 
-  * [Computer Systems: A Programmer’s Perspective, R. Bryant, D. O'Hallaron](https://www.amazon.com/dp/9332573905) - Comprehensive treatement of Computer Systems including Compilers, Interpreters and Runtimes.
-  * [Elements of Computing Systems, N. Nisan, S. Schocken](https://www.amazon.com/dp/0262640686) - How to build a computer starting with Nand Logic Gates and then move to Machine Code, Assemblers, Compilers and Operating Systems.
-  * [SICP, H. Abelson, G. Sussman](https://mitpress.mit.edu/sicp/full-text/book/book.html) - Structure and Interpretation of Computer Programs.
+  * [Computer Systems: A Programmer’s Perspective](https://www.amazon.com/dp/9332573905) - General treatment of Computer Systems including Compilers, Interpreters and Runtimes.
+  * [Elements of Computing Systems](https://www.amazon.com/dp/0262640686) - How to build a computer from Nand Gates all the way to Compilers and Operating Systems.
+  * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) - Study the building blocks of computation using Scheme by building a Scheme interpreter in a Scheme!
     + Other editions: [HTML5/EPUB version](https://sarabander.github.io/sicp/).
 
 #### Introductory
 
-  * [Basics of Compiler Design, T. Mogensen](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/) - Short and concise book on the basic concepts behind Compiler Design.
-  * [Beautiful Racket, M. But­t­er­ick](http://beautifulracket.com) - How to make your own Programming Language with Racket.
-  * [Build Your Own Lisp, D. Holden](http://www.buildyourownlisp.com) - Learn C and build your own Lisp programming language in 1000 lines of code.
-  * [Compilers: Principles, Techniques, and Tools, A. Aho, M. Lam, R. Sethi, J. Ullman](https://www.amazon.com/dp/0321486811) - The infamous Dragons Book, a classic textbook on Compiler Construction.
-  * [Crafting Interpreters, B. Nystrom](http://www.craftinginterpreters.com/) - Everything you need to learn to build an interpreted, full-featured, efficient scripting language.
+  * [Basics of Compiler Design](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/) - Provides a short treatment of the basic concepts.
+  * [Beautiful Racket](http://beautifulracket.com) - How to make your own Programming Language with Racket.
+  * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Learn C and build your own Lisp Programming Language in 1000 LoC.
+  * [Compilers: Principles, Techniques and Tools](https://www.amazon.com/dp/0321486811) - The Dragons Book. A classic textbook on Compiler Construction.
+  * [Crafting Interpreters](http://www.craftinginterpreters.com/) - An all-stop-shop for learning (nearly) everything you need to learn to build an interpreted, full-featured, efficient scripting language.
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
     + Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
-  * [Create Your Own Programming Language](http://createyourproglang.com/) - Very short book on building your own programming language with video tutorials and source code projects for 3 example programming languages.
+  * [Create Your Own Programming Languauge](http://createyourproglang.com/) - Example-driven approach to building your own programming language with video tutorials and source code projects.
     + Discussions: [HN](https://news.ycombinator.com/item?id=813133).
-  * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X) - Modern comprehensive textbook on Compilers Construction. It covers SSA Form and recent research on Machine Code Generation.
-  * [Essentials of Programming Languages, D. Friedman & M. Wand](https://www.amazon.com/dp/0262062798) - Fundamental concepts of programming languages with a focus on Semantics, Interpretation and CPS (Continuation Passing Style).
-  * [Language Implementation Patterns, T. Parr](https://www.amazon.com/dp/193435645X) - Learn the patterns behind building programming languages and build an interpreter yourself, using ANTLR.
-  * [Modern Compiler Implementation in ML, A. Appel](https://www.cs.princeton.edu/~appel/modern/ml/).
+  * [Engineering a Compiler](https://www.amazon.com/dp/012088478X) - The modern textbook on Compilers Construction, covering SSA-Form and recent research on Code Generation.
+  * [Essentials of Programming Languages](https://www.amazon.com/dp/0262062798) - Fundamental concepts of programming languages with a focus on Semantics, Interpretation and CPS (Continuation Passing Style).
+  * [Language Implementation Patterns](https://www.amazon.com/dp/193435645X) - Learn the patterns behind building programming languages and build an interpreter yourself, using ANTLR.
+  * [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml/) - Build a compiler using ML (MetaLanguage) with a textbook that has one of the best coverage on all compiler stages. The book comes with a reference compiler implementation to guide your software development process.
     + Other editions: [MCI in C](https://www.cs.princeton.edu/~appel/modern/c/), [MCI in Java](https://www.cs.princeton.edu/~appel/modern/java/).
-  * [Programming Language Pragmatics, M. Scott](https://www.amazon.com/dp/0123745144).
-  * [Programming Languages: Application and Interpretation, S. Krishnamurthi](http://cs.brown.edu/courses/cs173/2012/book/).
+  * [Programming Language Pragmatics](https://www.amazon.com/dp/0123745144) - Integrated treatement of language design and implementation, the examples feature famous architectures like ARM and x86 64-bit.
+  * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) - Excellent introduction to the subject that uses an incremental approach to building programs. The mistakes are included too to highlight key concepts.
     + [PDF](http://cs.brown.edu/courses/cs173/2012/book/book.pdf).
-  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf).
-  * [Project Oberon, N. Wirth & J. Gutknecht](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf).
+  * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) - Collected lecture notes for the _Programming Languages_ course taught at Carnegie Mellon University, most suitable as an introductory text on the subject.
+  * [Project Oberon](http://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf) - The design of an operating system and compiler.
     + Other editions: [2013 Edition](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/).
   * [The BEAM Book](https://github.com/happi/theBeamBook) - Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.
-  * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
-  * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
-  * [Writing a Compiler in Go, T. Ball](https://compilerbook.com/).
-  * [Writing an Interpreter in Go, T. Ball](https://interpreterbook.com/).
-  * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/dp/0470177071).
-    + Other editions: [Writing Compilers and Interpreters: An Applied Approach Using C++](https://www.amazon.com/dp/0471113530), [Writing Compilers and Interpreters: An Applied Approach Using C](https://www.amazon.com/dp/0471555800).
+  * [Virtual Machines](https://www.amazon.com/dp/1852339691) - Good book on how to build Virtual Machines especially tailored for the topic of building Programming Languages.
+  * [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/dp/1558609105) - Key textbook on the subject of Virtual Machines which examines virtual machine technologies across the disciplines that use them, e.g.: OS and Programming Languages.
+  * [Write a Compiler in Go](https://compilerbook.com/) - Well-known introduction to the Go programming language and its ecosystem through building a Compiler project.
+  * [Write an Interpreter in Go](https://interpreterbook.com/) - Successor of the "Write a Compiler in Go" book, but this one builds an interpreter project instead.
+  * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/dp/0470177071) - How to build Compilers using Java, this book is tailored for the working Software Engineer.
+    + Other editions: [Using C++](https://www.amazon.com/dp/0471113530), [Using C](https://www.amazon.com/dp/0471555800).
+  * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.de/gp/product/1977509207) - If you want to learn how to write interpreters and compilers, and at the same time learn how Python, Python bytecode, assembly language, and dynamic typing work, this is the book for you.
 
 
 #### Advanced
 
-  * [Advanced Compiler Design and Implementation, S. Muchnick](https://www.amazon.com/dp/1558603204).
-  * [Advanced Topics in Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162288).
-  * [A Retargetable C Compiler: Design and Implementation, D. Hanson](https://www.amazon.com/dp/0805316701).
-  * [Building an Optimizing Compiler, B. Morgan](https://www.amazon.com/dp/155558179X).
-  * [Compiling with Continuations, A. Appel](https://www.amazon.com/dp/052103311X).
-  * [Design Concepts in Programming Languages, F. Turbak, D. Gifford, M. Sheldon](https://www.amazon.com/dp/0262201755) - also contains some introductory level material.
-  * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953).
-  * [Linkers and Loaders](https://www.amazon.com/dp/1558604960).
-  * [Optimizing Compilers for Modern Architectures, R. Allen & K. Kennedy](https://www.amazon.com/dp/1558602860/).
-  * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X).
+  * [Advanced Compiler Design and Implementation](https://www.amazon.com/dp/1558603204) - In-depth treatement of advanced design topics such as: Intermediate Representation, SSA, Code Optimization and the various processor architectures.
+  * [Advanced Design and Implementation of Virtual Machines](https://www.amazon.com/dp/146658260X) - Step-by-step hollistic introduction to the design of Virtual Machine architectures, topics and algorithms. Contains illustrated figures and implementations for the algorithms in the book.
+  * [Advanced Topics in Types and Programming Languages](https://www.amazon.com/dp/0262162288) - Intensive study of Type Systems, covering topics such as, but not limited to: Precise Type Analyses; Type Systems for Low-Level Languages and Advanced Techniques in ML-style Type Inference..
+  * [A Retargetable C Compiler: Design and Implementation](https://www.amazon.com/dp/0805316701) - Examines the design and implementation of Icc, a production-quality, retargetable compiler, designed at AT&T Bell Labs for the ANSI C programming language.
+  * [Building an Optimizing Compiler](https://www.amazon.com/dp/155558179X) - Fills the gap in the domain of code optimization. This book provides a high level design for a thorough optimizer, code generator, scheduler and register allocator for a generic modern RISC processor.
+  * [Compiling with Continuations](https://www.amazon.com/dp/052103311X) - Introduction to CPS (Continuation-Passing Style) as an Intermediate Representation in Compiler for doing optimizations and program transformations.
+  * [Design Concepts in Programming Languages](https://www.amazon.com/dp/0262201755) - Systematic exploration of techniques and ideas used in Programming Language Design, covers topics such as: Operational and Denotational Semantic techniques, Dynamic Semantic techniques and Static Semantic techniques.
+  * [Instruction Level Parallelism](https://www.amazon.com/dp/1489977953) - This book precisely formulates and simplifies the presentation of Instruction Level Parallelism (ILP) compilation techniques.
+  * [Linkers and Loaders](https://www.amazon.com/dp/1558604960) - Definitive text on the compile-time and runtime processes of linking and loading.
+  * [Optimizing Compilers for Modern Architectures](https://www.amazon.com/dp/1558602860/) - Optimizing program generation based on recent gains and breakthroughs in modern high-performance CPU architectures.
+  * [Parsing Techniques: A Practical Guide](https://www.amazon.com/dp/038720248X) - Definitive guide on parsing algorithms and techniques, also contains an introduction to Formal Grammar and Parsing Theory.
     + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
-  * [The Garbage Collection Handbook: The Art of Automatic Memory Management, R. Jones, A. Hosking, E. Moss](https://www.amazon.com/dp/1420082795).
-  * [The Implemetation of Functional Programming Langauges, S. P. Jones](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf).
-  * [The SSA Book, Springer, Zadeck](http://ssabook.gforge.inria.fr/latest/book.pdf).
-  * [Types and Programming Languages, B. Pierce](https://www.amazon.com/dp/0262162091).
-  * [Warren's Abstract Machine - Prolog in Haskell, H. Aït-Kaci](https://mitpress.mit.edu/books/warrens-abstract-machine).
+  * [The Garbage Collection Handbook: The Art of Automatic Memory Management](https://www.amazon.com/dp/1420082795) - The living-classic and definitive text on the topic of Garbage Collection, also covers hardware-based optimizations in light of modern advances in CPU architectures.
+  * [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf) - Classic textbook on implementing Functional Languages, covers Structured Types, Pattern Matching Semantics, Lambda Calculus Transformation, Polymorphic Type Checking and many other topics.
+  * [The SSA Book](http://ssabook.gforge.inria.fr/latest/book.pdf) - The only in-depth study of SSA-form (Static Single Assignment Form) in book format.
+  * [Types and Programming Languages](https://www.amazon.com/dp/0262162091) - Comprehensive introduction to the topic of Type Systems and Programming Languages from a Type-Theoretic perspective.
+  * [Warren's Abstract Machine: Prolog in Haskell](https://mitpress.mit.edu/books/warrens-abstract-machine) - Introduction to WAM from Logic Programming in Prolog.
 
 ### Papers
 
