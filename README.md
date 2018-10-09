@@ -423,6 +423,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [TypeScript's Compiler](https://github.com/Microsoft/TypeScript).
   * [Wren's Compiler](https://github.com/munificent/wren).
   * [Zig's Compiler](https://github.com/zig-lang/zig) - Zig Language Compiler.
+  * [Zolang](https://github.com/Zolang/Zolang) - A small compiler written in Swift designed for generating code in virtually any programming language.
 
 ### Educational and Toy Projects
   * [Akilang](https://github.com/syegulalp/Akilang) - A compiler for a simple language, built with Python and LLVM
