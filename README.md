@@ -315,6 +315,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### CLR
 
   * [Cecil](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) - Library to generate and inspect programs and libraries in the ECMA CIL format.
+  * [dnlib](https://github.com/0xd4d/dnlib) - Library to manipulate .NET assemblies, including obfuscated assemblies.
+  * [dnSpy](https://github.com/0xd4d/dnSpy) - Graphical debugger and .NET assembly editor (Windows).
   * [DotNetPELib](https://github.com/LADSoft/DotNetPELib) - Library to read and write .net assemblies in C++11
   * [ILSpy](http://ilspy.net) - .NET Decompiler.
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - .NET Decompiler.
