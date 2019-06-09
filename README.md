@@ -84,8 +84,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [The BEAM Book](https://github.com/happi/theBeamBook) - Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.
   * [Virtual Machines](https://www.amazon.com/dp/1852339691) - Good book on how to build Virtual Machines especially tailored for the topic of building Programming Languages.
   * [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/dp/1558609105) - Key textbook on the subject of Virtual Machines which examines virtual machine technologies across the disciplines that use them, e.g.: OS and Programming Languages.
-  * [Write a Compiler in Go](https://compilerbook.com/) - Well-known introduction to the Go programming language and its ecosystem through building a Compiler project.
-  * [Write an Interpreter in Go](https://interpreterbook.com/) - Successor of the "Write a Compiler in Go" book, but this one builds an interpreter project instead.
+  * [Write an Interpreter in Go](https://interpreterbook.com/) - Well-known introduction to the Go programming language and its ecosystem through building an Interpreter project.
+  * [Write a Compiler in Go](https://compilerbook.com/) - Successor of the "Write an Interpreter in Go" book, but this one builds a Compiler project instead.
   * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/dp/0470177071) - How to build Compilers using Java, this book is tailored for the working Software Engineer.
     + Other editions: [Using C++](https://www.amazon.com/dp/0471113530), [Using C](https://www.amazon.com/dp/0471555800).
   * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.de/gp/product/1977509207) - If you want to learn how to write interpreters and compilers, and at the same time learn how Python, Python bytecode, assembly language, and dynamic typing work, this is the book for you.
