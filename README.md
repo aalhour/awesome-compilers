@@ -352,7 +352,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [IRHudra](http://mrale.ph/irhydra/2/) - Tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - Context-free grammar parser generator for JavaScript.
-    + [GerHobbelt/jison](https://github.com/GerHobbelt/jison) - active fork of jison with bunch of improvements.  
+    + [GerHobbelt/jison](https://github.com/GerHobbelt/jison) - active fork of jison with bunch of improvements.
   * [Nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
   * [Ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
   * [PEG.js](https://pegjs.org) - Simple parser generator for JavaScript.
@@ -381,6 +381,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [PyParsing](http://pyparsing.wikispaces.com/) - Alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions.
   * [RPLY](https://github.com/alex/rply) - Port of the PLY project to RPython.
   * [RPython](https://rpython.readthedocs.io/en/latest/) - RPython is a framework for the implementatation of dynamic languages.
+  * [xdis](https://pypi.org/project/xdis/) - Cross-Python's Disassembler, Bytecode, and Magic Number Manipulation package.
+  * [uncompyle6](https://pypi.org/project/uncompyle6/) - A native Python cross-version decompiler and fragment decompiler.
 
 #### Lists of Python Parsing Tools
 
