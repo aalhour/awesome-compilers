@@ -168,6 +168,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + Lecture Notes: [PDF](https://lambda.uta.edu/cse5317/notes.pdf), [HTML](https://lambda.uta.edu/cse5317/long/long.html).
   * [DSL Design and Implementation Summer School](http://vjovanov.github.io/dsldi-summer-school/) - Summer School program on the topics of DSL Design and Implementation hosted by the EPFL University.
   * [Foundations of Programming Languages](http://www.cs.cmu.edu/~fp/courses/15312-f04/) - Concepts that underlie the design, definition, implementation and use of modern programming languages from a formal standpoint.
+  * [Managed Runtime Systems](https://foivos.zakkak.net/courses/managed-runtime-systems/) - Course on Managed Runtime Systems, with a strong focus on the JVM. A spinoff of "Virtual Machines and Managed Runtimes, UCB CS294" (inherits material).
   * [Nand2Tetris: How to Build a Computer from First Principles, Part 2](https://www.coursera.org/learn/nand2tetris2) - This 2nd part of the Nand2Tetris course covers basic language design and elementary compiler construction concepts in addition to many other topics on a basic level.
   * [NPTEL's Principles of Compiler Design Course](https://www.youtube.com/playlist?list=PLbMVogVj5nJQNjkHZgwuAlfQ9tzmQDxjA) - Introductory course from NPTEL on Compiler Design.
   * [NPTEL's Compiler Design Course](http://nptel.ac.in/courses/106108052/32) - Slightly more advanced course than their Principles of Compiler Design course, covers SSA Form to a good degree.
