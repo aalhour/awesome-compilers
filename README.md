@@ -28,6 +28,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [C / C++](#c--c)
     + [CLR](#clr)
     + [D](#d)
+    + [F#](#f)
     + [Go](#go)
     + [Graal](#graal)
     + [Haskell](#haskell)
@@ -327,6 +328,12 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [libdparse](https://github.com/dlang-community/libdparse) - Library allowing to build lexers and parsers. Contains a lexer and a parser for the D language itself.
   * [llvm-d](https://github.com/Calrama/llvm-d) - D bindings for LLVM.
   * [Pegged](https://github.com/PhilippeSigaud/Pegged) - design, test and generate parsers for PEG grammars.
+
+### F#
+
+  * [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#.
+  * [Fint](https://github.com/sergeyt/fint) - .NET CIL interpreter written in pure F#.
+  * [FsLexYacc](https://github.com/fsprojects/FsLexYacc) - Lexer and parser generators for F#.
 
 ### Go
 
