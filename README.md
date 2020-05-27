@@ -507,6 +507,16 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [TypeFunc](https://github.com/williamdemeo/TypeFunc).
 
 
+## Contributors
+
+<a href="https://github.com/aalhour/awesome-compilers/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=aalhour/awesome-compilers" />
+</a>
+
+<br />
+<!-- Made with [contributors-img](https://contributors-img.firebaseapp.com). -->
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
