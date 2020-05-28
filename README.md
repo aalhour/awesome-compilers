@@ -406,6 +406,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
+  * [Clarence-language](http://github.com/clarence-lang/clarence) - A self-hosted lisp dialect that targets a self-prduced bytecode. 
   * [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) - Elena programming language.
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
   * [Frege's Compiler](https://github.com/Frege/frege) - JVM-based Compiler for the Frege Programming Language.
