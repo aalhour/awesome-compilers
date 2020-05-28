@@ -163,7 +163,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [Compilers Construction, Cambridge](http://www.cl.cam.ac.uk/teaching/1516/CompConstr/materials.html) - Introduction to compiler construction course from the University of Cambridge.
   * [Compiler Construction for Undergrads, RICE University](https://www.clear.rice.edu/comp412/Lectures/) - Introduction to compiler construction and language translators course from the RICE University.
-  * Compilers Theory, Stanford - [YouTube](https://www.youtube.com/playlist?list=PLLH73N9cB21VSVEX1aSRlNTufaLK1dTAI), [Stanford.edu](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/), [Class Notes](http://web.stanford.edu/class/cs143/) -Introduction to Compilers theory and construction course from Stanford.
+  * Compilers Theory, Stanford - [Stanford.edu](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/), [Class Notes](http://web.stanford.edu/class/cs143/) -Introduction to Compilers theory and construction course from Stanford.
   * [Design and Construction of Compilers, University of Texas](https://lambda.uta.edu/cse5317/) - Design and construction of compilers including lexical analysis, parsing, code generation techniques, error analysis and simple code optimizations.
     + Lecture Notes: [PDF](https://lambda.uta.edu/cse5317/notes.pdf), [HTML](https://lambda.uta.edu/cse5317/long/long.html).
   * [DSL Design and Implementation Summer School](http://vjovanov.github.io/dsldi-summer-school/) - Summer School program on the topics of DSL Design and Implementation hosted by the EPFL University.
