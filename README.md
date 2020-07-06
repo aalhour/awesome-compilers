@@ -196,6 +196,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk).
   * [Building an Interpreter in RPython](https://www.youtube.com/watch?v=9tDpjzPLvNY).
   * [CPython - A Ten-Hour Codewalk](http://pgbovine.net/cpython-internals.htm).
+  * [Demystifying compilers by writing your own](https://www.youtube.com/watch?v=zMJYoYwOCd4) - Talk about language design and compilers, using a case study and showing how you could build a compiler from scratch using Elixir – explaining each phase of a compilation process and how Elixir can help us on this challenge.
   * [Exploring Python’s Bytecode](https://ep2016.europython.eu/media/conference/slides/exploring-python-bytecode.pdf).
   * [How to Build a Virtual Machine](https://www.youtube.com/watch?v=OjaAToVkoTw) - Terence Parr gives an idea of the core mechanisms behind virtual machines by building one, in front of your eyes, from scratch. It is the same kind of commercial interpreter he made for Renault cars.
   * [Java AOT (Ahead of Time) Compilation](https://2016.javazone.no/program/java-aot-compilation).
