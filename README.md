@@ -442,6 +442,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [gone](https://github.com/paivett/gone) - Compiler for a tiny programming language called Gone, implemented using Python 3.6, SLY and llvmlite. Developed as part of the January 2018 [Write a compiler course](http://www.dabeaz.com/compiler.html), under the supervision of David Beazly.
   * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
+  * [jelly](https://github.com/mrylmz/jelly) - Swift inspired work in progress programming language without safety by default implemented in C and LLVM.
   * [llgo](https://github.com/llvm-mirror/llgo) - Go frontend for LLVM written in Go.
   * [MAL](https://github.com/kanaka/mal): Make a Lisp - Clojure-inspired Lisp interpreter implemented in 64 languages.
   * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
