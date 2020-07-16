@@ -390,6 +390,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### Rust
 
   * [Combine](https://github.com/Marwes/combine) - Parser Combinator Library for Rust.
+  * [Cranelift](https://github.com/CraneStation/cranelift) - Code generator written in Rust.
   * [IronLLVM](https://github.com/jauhien/iron-llvm) - Safe LLVM bindings for Rust.
   * [LALRPOP](https://github.com/nikomatsakis/lalrpop) - LR(1) parser generator for Rust.
   * [Nom](https://github.com/Geal/nom) - Parser Combinator Framework.
