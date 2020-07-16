@@ -403,6 +403,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### Serious Projects
 
+  * [AssemblyScript's Compiler](https://github.com/AssemblyScript/assemblyscript) - A TypeScript to WebAssembly compiler.
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
