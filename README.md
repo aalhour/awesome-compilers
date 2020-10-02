@@ -490,6 +490,9 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [/r/Compilers](https://www.reddit.com/r/Compilers) - Subreddit community about the theory and development of compilers.
   * [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages) - Subreddit community that is dedicated to discussion of programming languages, programming language theory, design, their syntax and compilers.
+  * [Strumenta Community](https://strumenta.community/) - A community about language engineering (DSLs, parsers, compilers, interpreters, tooling) open to practicioners, researchers, and enthusiasts (currently invite-only).
+
+
 
 
 ## Verticals
