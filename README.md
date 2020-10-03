@@ -68,7 +68,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Crafting Interpreters](http://www.craftinginterpreters.com/) - An all-stop-shop for learning (nearly) everything you need to learn to build an interpreted, full-featured, efficient scripting language.
     + [GitHub Repo](https://github.com/munificent/craftinginterpreters).
     + Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
-  * [Create Your Own Programming Languauge](http://createyourproglang.com/) - Example-driven approach to building your own programming language with video tutorials and source code projects.
+  * [Create Your Own Programming Language](http://createyourproglang.com/) - Example-driven approach to building your own programming language with video tutorials and source code projects.
     + Discussions: [HN](https://news.ycombinator.com/item?id=813133).
   * [Engineering a Compiler](https://www.amazon.com/dp/012088478X) - The modern textbook on Compilers Construction, covering SSA-Form and recent research on Code Generation.
   * [Essentials of Programming Languages](https://www.amazon.com/dp/0262062798) - Fundamental concepts of programming languages with a focus on Semantics, Interpretation and CPS (Continuation Passing Style).
@@ -269,7 +269,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Community Discussions
 
-  * [Can we stop recommending the Dragon Book, please?](https://meta.stackexchange.com/questions/25840/can-we-stop-recommending-the-dragon-book-please) - StackExchange thread criticising the [Dragons Book](https://www.amazon.com/dp/0321486811) in favor of alternatives.
+  * [Can we stop recommending the Dragon Book, please?](https://meta.stackexchange.com/questions/25840/can-we-stop-recommending-the-dragon-book-please) - StackExchange thread criticizing the [Dragons Book](https://www.amazon.com/dp/0321486811) in favor of alternatives.
   * [What is difference between an LL and Recursive Descent parser?](http://stackoverflow.com/questions/1044600/difference-between-an-ll-and-recursive-descent-parser).
   * Does a compiler use all x86 instructions? - [@HN](https://news.ycombinator.com/item?id=12352959), [@Reddit](https://redd.it/4zgawj) - Article discussions on HN and Reddit.
   * [How to Write a Compiler](https://redd.it/4o7qag) - Article discussion on Reddit.
@@ -292,7 +292,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Keystone](https://github.com/keystone-engine/keystone) - Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.
   * [LLILCL](https://github.com/dotnet/llilc) - LLVM-based Compiler Backend for .NET Core.
   * [LLVM](http://llvm.org/) - The LLVM Compiler-Backend Framework.
-  * [MicroVM](http://microvm.github.io/) - The "Mu" Framewrok for Programming Languages development based on the MuVM Specification.
+  * [MicroVM](http://microvm.github.io/) - The "Mu" Framework for Programming Languages development based on the MuVM Specification.
   * [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
   * [QBE: The Quick Backend](http://c9x.me/compile/) - Pure C embeddable SSA-based compiler backend.
   * [Rubinius](https://github.com/rubinius/rubinius) - Programming Languages Development Platform.
@@ -412,7 +412,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
   * [HHVM](https://github.com/facebook/hhvm) - Virtual Machine for running programs written in Hack and PHP.
   * [Lily's Interpreter](https://github.com/FascinatedBox/lily).
-  * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
+  * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interpreter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
   * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for the Mirah Programming Language.
   * [Nim's Compiler](https://github.com/nim-lang/Nim).
