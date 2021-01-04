@@ -61,7 +61,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 #### Introductory
 
-  * [Basics of Compiler Design](http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/) - Provides a short treatment of the basic concepts.
+  * [Basics of Compiler Design](http://hjemmesider.diku.dk/~torbenm/Basics/) - Provides a short treatment of the basic concepts.
   * [Beautiful Racket](http://beautifulracket.com) - How to make your own Programming Language with Racket.
   * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Learn C and build your own Lisp Programming Language in 1000 LoC.
   * [Compilers: Principles, Techniques and Tools](https://www.amazon.com/dp/0321486811) - The Dragons Book. A classic textbook on Compiler Construction.
