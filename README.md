@@ -449,6 +449,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [MunVM](https://github.com/MunVM/MunVM) - Lua VM & Compiler in C.
   * [MY-BASIC](https://github.com/paladin-t/my_basic) - An embeddable BASIC dialect interpreter in C with modern paradigms.
   * [oberonc](https://github.com/lboasso/oberonc) - A single pass, self-hosting compiler for the Oberon-07 programming language. It targets the JVM.
+  * [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
   * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
