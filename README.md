@@ -395,6 +395,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Nom](https://github.com/Geal/nom) - Parser Combinator Framework.
   * [PEG](https://github.com/kevinmehall/rust-peg) - PEG Parser Generator.
   * [Pest](https://github.com/pest-parser/pest) - PEG Parser Generator.
+  * [QBE](https://github.com/garritfra/qbe-rs) - QBE IR for Rust
   * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
 
 ## Compilers and Interpreters
