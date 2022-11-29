@@ -264,6 +264,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Project: A Programming Language](http://eloquentjavascript.net/11_language.html) - Chapter 11 from the book _Eloquent JavaScript_, 2nd Edition.
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
+  * [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit).
+    + Follow-up: [JIT compiling a subset of Python to x86-64](https://csl.name/post/python-compiler).
   * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
 
 
