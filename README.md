@@ -107,7 +107,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [1st Edition, PDF](https://dickgrune.com/Books/PTAPG_1st_Edition/).
   * [The Garbage Collection Handbook: The Art of Automatic Memory Management](https://www.amazon.com/dp/1420082795) - The living-classic and definitive text on the topic of Garbage Collection, also covers hardware-based optimizations in light of modern advances in CPU architectures.
   * [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf) - Classic textbook on implementing Functional Languages, covers Structured Types, Pattern Matching Semantics, Lambda Calculus Transformation, Polymorphic Type Checking and many other topics.
-  * [The SSA Book](http://ssabook.gforge.inria.fr/latest/book.pdf) - The only in-depth study of SSA-form (Static Single Assignment Form) in book format.
+  * [The SSA Book](https://link.springer.com/book/10.1007/978-3-030-80515-9) - The only in-depth study of SSA-form (Static Single Assignment Form) in book format.
   * [Types and Programming Languages](https://www.amazon.com/dp/0262162091) - Comprehensive introduction to the topic of Type Systems and Programming Languages from a Type-Theoretic perspective.
   * [Warren's Abstract Machine: Prolog in Haskell](https://mitpress.mit.edu/books/warrens-abstract-machine) - Introduction to WAM from Logic Programming in Prolog.
 
