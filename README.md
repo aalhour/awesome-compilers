@@ -434,6 +434,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
   * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
   * [Charly](https://github.com/charly-lang/charly) - Interpreter for a dynamically typed language written in Crystal.
+  * [coollang-2020-fs](https://github.com/mykolav/coollang-2020-fs) - Compiler of a small Scala subset into x86-64 assembly implemented in F#.
   * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
   * [EasyLang](https://github.com/erhanbaris/EasyLang) - Easy Programming Language / VM.
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
