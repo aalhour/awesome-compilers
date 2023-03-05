@@ -434,6 +434,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
   * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
   * [Charly](https://github.com/charly-lang/charly) - Interpreter for a dynamically typed language written in Crystal.
+  * [Compiler Explorer](https://godbolt.org/) - Run compilers interactively from your web browser and interact with the assembly. Source code found on [GitHub](https://github.com/mattgodbolt/compiler-explorer).
   * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
   * [EasyLang](https://github.com/erhanbaris/EasyLang) - Easy Programming Language / VM.
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
