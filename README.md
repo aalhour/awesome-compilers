@@ -129,7 +129,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Engineering Definitional Interpreters, J. Midtgaard, N. Ramsey, B. Larsen](https://www.cs.tufts.edu/~nr/pubs/interps.pdf).
   * [Garbage Collection in an Uncooperative Environment, H. Boehm, M. Weiser](https://pdfs.semanticscholar.org/6434/aa10f3745dcf959cfca9c379aae120396724.pdf?_ga=2.133026126.1710272003.1495044697-300816831.1495044697).
   * [Machine Code Obfuscation via Instruction Set Reduction and CFG Linearization, C. Jonischkeit](https://kirschju.re/static/ba_jonischkeit_2016.pdf).
-  * [`MOV` is Turing-Complete, S. Dolan](https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf).
+  * [`MOV` is Turing-Complete, S. Dolan](http://stedolan.net/research/mov.pdf).
     + Discussions: [HN](https://news.ycombinator.com/item?id=6309631), [Reddit](https://redd.it/1nft0x).
   * [Nanopass Framework for Commercial Compiler Development, A. Keep & R. Dybvig](https://www.cs.indiana.edu/~dyb/pubs/commercial-nanopass.pdf).
   * [Nanopass Framework for Compiler Education, D. Sarkar, O. Waddell & R. Dybvig](https://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
