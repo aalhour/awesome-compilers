@@ -474,6 +474,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + [Kaffe](https://github.com/kaffe/kaffe).
     + [JamVM](http://jamvm.sourceforge.net) - [GitHub project mirror](https://github.com/cfriedt/jamvm).
     + [Apache Harmony](https://harmony.apache.org/).
+    + [Maxine VM](https://github.com/beehive-lab/Maxine-VM).
     + [Other JVM Runtimes](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines).
 
 
