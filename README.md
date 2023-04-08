@@ -416,10 +416,10 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
   * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for the Mirah Programming Language.
   * [Nim's Compiler](https://github.com/nim-lang/Nim).
+  * [OrangeC](https://github.com/LADSoft/OrangeC) - C compiler that compiles to CLR.
   * [P Lang](https://github.com/p-org/P) - The P Programming Language Runtime.
   * [Red's Compiler](https://github.com/red/red).
   * [Roslyn](https://github.com/dotnet/roslyn) - The .NET "Roslyn" Compiler Platform.
-  * [Simple-MSIL-Compiler](https://github.com/LADSoft/Simple-MSIL-Compiler) - C compiler that compiles to CLR.
   * [TypeScript's Compiler](https://github.com/Microsoft/TypeScript).
   * [Wren's Compiler](https://github.com/munificent/wren).
   * [Zig's Compiler](https://github.com/zig-lang/zig) - Zig Language Compiler.
