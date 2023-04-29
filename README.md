@@ -443,6 +443,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
   * [llgo](https://github.com/llvm-mirror/llgo) - Go frontend for LLVM written in Go.
+  * [loxcraft](https://github.com/ajeetdsouza/loxcraft) - a compiler, REPL, language server, and online playground for the Lox programming language.
   * [MAL](https://github.com/kanaka/mal): Make a Lisp - Clojure-inspired Lisp interpreter implemented in 64 languages.
   * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
   * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
