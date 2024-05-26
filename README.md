@@ -176,6 +176,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Programming Languages: Part B, by Grossman](https://www.coursera.org/learn/programming-languages-part-b) - Part 2 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming.
   * [Programming Languages: Part C, by Grossman](https://www.coursera.org/learn/programming-languages-part-c) - Part 3 of a 3-part course series to the basic concepts of programming languages, with a strong emphasis on functional programming.
   * [Types, Logic, Semantics, and Verification from Oregon University's Summer School](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html) - Summer School program that consists of 80 minute lectures presented by internationally recognized leaders in programming languages and formal reasoning research.
+  * [UFMG's Static Program Analysis](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/) - 60-hour course on principles of code analysis, including data-flow, constraint-based, static single-assignment form, type checking and inference, etc. Material is fully available [online](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/). The course also provides a [project assignment](https://github.com/pronesto/DCC888).
   * [Virtual Machines and Managed Runtimes, UCB CS294](http://www.wolczko.com/CS294/) - Introductory course on Virtual Machines and Managed Runtimes from the University of Berkeley.
   * [Virtual Machines Summer School 2016 (VMSS 2016)](http://soft-dev.org/events/vmss16/) - VMSS is a Summer School program that aims to give an overview of the field, targeted at early career researchers.
     + [YouTube Videos Playlist](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW).
@@ -215,6 +216,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Part 2](https://www.youtube.com/watch?v=FV9fq_HfPsM).
     + [Part 3](https://www.youtube.com/watch?v=GyYiic8trCE).
   * [Type-Driven Development with Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ).
+  * [UFMG's Introduction to LLVM](https://youtube.com/playlist?list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv&feature=shared), up to date with LLVM v12.0.0.
+  * [UFMG's Static Analysis Course](https://youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU&feature=shared) on YouTube.
   * [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU).
 
 ### Articles
