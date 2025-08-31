@@ -345,7 +345,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Hoopl](https://github.com/haskell/hoopl) - Higher-order optimization library.
   * [llvm-general](https://github.com/bscarlet/llvm-general/) - Haskell bindings for LLVM.
   * [Parsec](https://github.com/aslatter/parsec) / [attoparsec](https://github.com/bos/attoparsec) / [Megaparsec](https://github.com/mrkkrp/megaparsec) / [Trifecta](https://github.com/ekmett/trifecta/) / [Alex](https://github.com/simonmar/alex) + [Happy](https://github.com/simonmar/happy) - Parsers for every use case.
-  * [wl-pprint-text](https://github.com/ivan-m/wl-pprint-text) / [ansi-wl-pprint](https://github.com/batterseapower/ansi-wl-pprint) - Walder-style pretty-printing libraries.
+  * [wl-pprint-text](https://github.com/ivan-m/wl-pprint-text) / [ansi-wl-pprint](https://github.com/batterseapower/ansi-wl-pprint) / [prettyprinter](https://github.com/quchen/prettyprinter) - Walder-style pretty-printing libraries.
 
 ### JavaScript
 
