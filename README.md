@@ -500,6 +500,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
   * [miniKanren.org](http://minikanren.org) - Papers, Talks and Implementations of miniKanren and microKanren.
+  * [Papers on Compiler Optimizations: Analysis and Transformations](https://github.com/FedericoBruzzone/papers-on-compiler-optimizations) - A chronologically sorted list of influential papers on compiler optimization, from the seminal works of 1952 through the advanced techniques.
   * [PLT Enlightenment](http://steshaw.org/plt/).
   * [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/).
   * [SSA Form Bibliography](http://www.dcs.gla.ac.uk/~jsinger/ssa.html).
