@@ -356,6 +356,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
   * [Ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
   * [PEG.js](https://pegjs.org) - Simple parser generator for JavaScript.
+  * [Temporal-Parser](https://github.com/taskade/temporal-parser) - Lexer and parser for ISO 8601, RFC 3339, and IXDTF temporal expressions. Built with compiler design principles (tokenizer, lexer, recursive descent parser).
 
 ### JVM
 
