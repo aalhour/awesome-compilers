@@ -415,6 +415,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
   * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for the Mirah Programming Language.
+  * [NAAb](https://github.com/b-macker/NAAb) - Polyglot language interpreter embedding 12 languages (Python, JS, Rust, Go, C++, etc.) with built-in LLM governance engine.
   * [Nim's Compiler](https://github.com/nim-lang/Nim).
   * [P Lang](https://github.com/p-org/P) - The P Programming Language Runtime.
   * [Red's Compiler](https://github.com/red/red).
