@@ -430,6 +430,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + Discussions: [HN](https://news.ycombinator.com/item?id=11411124).
   * [Black](http://www.is.ocha.ac.jp/~asai/Black/) - Scheme interpreter for the Reflective Programming Language "Black", by Kenichi Asai's.
     + Other sources: [GitHub Mirror](https://github.com/readevalprintlove/black).
+  * [Benoit](https://github.com/SanTiepi/benoit) - Transpile-to-JavaScript language optimized for human-AI pair programming. Features inline test assertions as first-class syntax, pattern matching, pipe operator. ~500 lines, zero dependencies.
   * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
     + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
   * [CarpVM](https://github.com/tekknolagi/carp) - Experimental VM implementation in C.
