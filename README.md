@@ -6,6 +6,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 -----------------------------------------
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for compiler development workflow orchestration, automated language toolchain management, and multi-agent coordination. MIT licensed.
 ## Contents
 
   * [Learning](#learning)
