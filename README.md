@@ -285,6 +285,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ## Tools and Frameworks
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=aalhour_awesome-compilers) - Follow developers on GitHub and get a feed of what they star and build.
 ### Language Agnostic
 
   * [B3: The Bare Bones Backend](https://webkit.org/docs/b3/) - WebKit's optimizing JIT Compiler for procedures containing C-like code.
