@@ -287,6 +287,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Language Agnostic
 
+  * [assembly-repl](https://github.com/pirate/assembly-repl) - Native raw assembly, LLVM IR, C, C++, and Objective-C REPLs for macOS and Linux.
   * [B3: The Bare Bones Backend](https://webkit.org/docs/b3/) - WebKit's optimizing JIT Compiler for procedures containing C-like code.
   * [Capstone](https://github.com/aquynh/capstone) - Lightweight multi-platform, multi-architecture disassembly framework with bindings to various famous programming languages.
   * [Keystone](https://github.com/keystone-engine/keystone) - Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.
