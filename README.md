@@ -405,6 +405,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool.
+  * [Capa](https://github.com/nelsonduarte/capa-language) - Capability-typed programming language that transpiles to Python and emits SBOM/VEX/SLSA artefacts directly from function signatures.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
   * [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) - Elena programming language.
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
