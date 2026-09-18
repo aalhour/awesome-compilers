@@ -460,6 +460,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - Tiny-C language compiler in C.
   * [tisp](https://github.com/raviqqe/tisp) - "Time is Space" Programming Language Interpreter.
   * [Ultra Tiny Compiler](https://github.com/antonmedv/ultra-tiny-compiler) - Another tiny compiler in less then 90 lines of code.
+  * [WATE](https://github.com/waseemakram-dev/wate) - High-performance full-stack programming language featuring a Register VM, JIT compiler, and web playground.
 
 
 ## Runtimes and VMs
