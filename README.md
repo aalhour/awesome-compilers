@@ -437,6 +437,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C: a system programming language.
   * [EasyLang](https://github.com/erhanbaris/EasyLang) - Easy Programming Language / VM.
   * [Eschelle](https://github.com/Eschelle/Eschelle) - Open source cross platform multi-paradigm language with VM & JIT
+  * [Externum](https://github.com/BartoszOsiej/externum) - A statically-typed language that transpiles to Python and Bash and compiles to its own bytecode artifact (run without source); the compiler is written mostly in Externum itself. Includes a WASM browser playground.
   * [Gecho](https://github.com/tekknolagi/gecho) - Simple-stack language implementation in C.
   * [gocaml](https://github.com/rhysd/gocaml) - Minimal functional programming language implementation in Go and LLVM.
   * [gone](https://github.com/paivett/gone) - Compiler for a tiny programming language called Gone, implemented using Python 3.6, SLY and llvmlite. Developed as part of the January 2018 [Write a compiler course](http://www.dabeaz.com/compiler.html), under the supervision of David Beazly.
