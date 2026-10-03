@@ -450,6 +450,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [MY-BASIC](https://github.com/paladin-t/my_basic) - An embeddable BASIC dialect interpreter in C with modern paradigms.
   * [oberonc](https://github.com/lboasso/oberonc) - A single pass, self-hosting compiler for the Oberon-07 programming language. It targets the JVM.
   * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
+  * [PXX](https://github.com/yoctobyte/pxx) - Self-hosting Pascal, C and Python compiler with its own ELF writer and linker; targets Linux on five architectures, wasm32 and ESP32 firmware.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
   * [Squint](https://github.com/HPCguy/Squint) - A peephole optimizer for educational compilers generating stack based assembly.
