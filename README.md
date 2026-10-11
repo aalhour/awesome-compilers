@@ -289,6 +289,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [B3: The Bare Bones Backend](https://webkit.org/docs/b3/) - WebKit's optimizing JIT Compiler for procedures containing C-like code.
   * [Capstone](https://github.com/aquynh/capstone) - Lightweight multi-platform, multi-architecture disassembly framework with bindings to various famous programming languages.
+  * [Ispa](https://github.com/Sinfolke/ispa-parser-generator) - Self-hosted parser/lexer generator with automatic AST construction (both lexer and parser) from capture points; language-agnostic in core, C++ now.
   * [Keystone](https://github.com/keystone-engine/keystone) - Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.
   * [LLILCL](https://github.com/dotnet/llilc) - LLVM-based Compiler Backend for .NET Core.
   * [LLVM](http://llvm.org/) - The LLVM Compiler-Backend Framework.
