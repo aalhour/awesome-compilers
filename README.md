@@ -412,6 +412,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
   * [HHVM](https://github.com/facebook/hhvm) - Virtual Machine for running programs written in Hack and PHP.
   * [Lily's Interpreter](https://github.com/FascinatedBox/lily).
+  * [Loment's Compiler](https://github.com/FujoJTOP/loment) - Compiler for the Loment language, written in Loment; targets bare-metal and hosted x86-64 and links with its own linker.
   * [Lua's Interpreter](https://github.com/LuaDist/lua) - Official Lua Language Interperter.
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
   * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for the Mirah Programming Language.
