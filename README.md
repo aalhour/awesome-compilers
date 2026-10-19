@@ -376,6 +376,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
   * [AST](https://docs.python.org/3.5/library/ast.html) - Python's builtin Abstract Syntax Tree package.
   * [Dis](https://docs.python.org/3.6/library/dis.html) - Python's builtin Disassembler package.
+  * [HeaderKit](https://github.com/axiomantic/headerkit) - C/C++ header analysis toolkit with pluggable compiler backends (libclang, tree-sitter) and AST-to-binding generation pipelines.
   * [Parsing](http://www.canonware.com/Parsing/) - Pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers.
   * [PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python.
   * [PyParsing](http://pyparsing.wikispaces.com/) - Alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions.
