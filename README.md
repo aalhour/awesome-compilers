@@ -416,6 +416,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
   * [Mirah's Compiler](https://github.com/mirah/mirah) - JVM-based Compiler for the Mirah Programming Language.
   * [Nim's Compiler](https://github.com/nim-lang/Nim).
+  * [Omega's Compiler](https://github.com/aien-dev/omega-mv) - omc is rebuilt from a 408-byte hand-written AArch64 Linux program through four seed rungs to a 325,524-byte compiler, with no C compiler, assembler or linker writing any byte of the chain (the 408 bytes are commented hex turned into bytes by a POSIX shell script whose printf is the one outside tool; the chain runs only on AArch64 Linux).
   * [P Lang](https://github.com/p-org/P) - The P Programming Language Runtime.
   * [Red's Compiler](https://github.com/red/red).
   * [Roslyn](https://github.com/dotnet/roslyn) - The .NET "Roslyn" Compiler Platform.
