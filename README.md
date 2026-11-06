@@ -403,6 +403,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### Serious Projects
 
+  * [Amu](https://github.com/kotoba-lang/amu) - Self-hosted compiler for the Kotoba Lisp, with type and effect checking and native ARM64/x86-64 code generation.
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
