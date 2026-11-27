@@ -405,6 +405,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool.
+  * [BuildLang](https://github.com/HarperZ9/buildlang) - Effect-typed systems and GPU compiler written in Rust targeting C, native binaries, WASM, HLSL, GLSL, WGSL, and Metal.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
   * [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) - Elena programming language.
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
